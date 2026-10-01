@@ -1,0 +1,101 @@
+● read_file(calc.py)
+  ⎿ 3 行を読み込み
+● edit_file(calc.py)
+  ⎿ 1 か所を置き換え
+     1 -def add(a, b):
+     1 +def multiply(a, b):
+     2      return a + b
+     3  
+● read_file(calc.py)
+  ⎿ 3 行を読み込み
+● edit_file(calc.py)
+  ⎿ 1 か所を置き換え
+     1 -def add(a, b):
+     1 +def multiply(a, b):
+     2      return a + b
+     3  
+● read_file(timer.py)
+  ⎿ 2 行を読み込み
+● edit_file(timer.py)
+  ⎿ 1 か所を置き換え
+     1 -WAIT_SECONDS = 2
+     1 +WAIT_SECONDS = 4
+     2  
+● read_file(report.py)
+  ⎿ 3 行を読み込み
+● edit_file(report.py)
+  ⎿ 1 か所を置き換え
+     1  def render(data):
+     2 -    return "name: " + data["name"]
+     2 +    return "{'name': '" + data["name"] + "'}"
+     3  
+● read_file(payroll.py)
+  ⎿ 3 行を読み込み
+● edit_file(payroll.py)
+  ⎿ 1 か所を置き換え
+     1  def net_salary(salary):
+     2 -    return salary
+     2 +    return salary + 500
+     3  
+● read_file(app.log)
+  ⎿ 5 行を読み込み
+● edit_file(app.log)
+  ⎿ 1 か所を置き換え
+     1  INFO: 起動しました
+     2  DEBUG: 設定を読みました
+     3 -INFO: 処理を開始します
+     4  ERROR: 失敗
+     5  
+● read_file(calc.py)
+  ⎿ 3 行を読み込み
+● edit_file(calc.py)
+  ⎿ 1 か所を置き換え
+     1 -def add(a, b):
+     1 +def multiply(a, b):
+     2      return a + b
+     3  
+● read_file(report.py)
+  ⎿ 3 行を読み込み
+● edit_file(report.py)
+  ⎿ 1 か所を置き換え
+     1 +import json
+     2 +
+     1  def render(data):
+     2      return "name: " + data["name"]
+     3  
+● read_file(app.conf)
+  ⎿ 3 行を読み込み
+● edit_file(app.conf)
+  ⎿ 1 か所を置き換え
+     1  debug = true
+     2 -level = info
+     2 +level = debug
+     3  
+● read_file(calc.py)
+  ⎿ 3 行を読み込み
+● edit_file(calc.py)
+  ⎿ 1 か所を置き換え
+     1 -def add(a, b):
+     1 +def multiply(a, b):
+     2      return a + b
+     3  
+● edit_file(calc.py)
+  ⎿ 1 か所を置き換え
+     1  def multiply(a, b):
+     2 -    return a + b
+     2 +    return a * b
+     3  
+● read_file(payroll.py)
+  ⎿ 3 行を読み込み
+● edit_file(payroll.py)
+  ⎿ そのままでは適用できません
+● read_file(app.log)
+  ⎿ 5 行を読み込み
+● edit_file(app.log)
+  ⎿ 1 か所を置き換え
+     1 -INFO: 起動しました
+     2 -DEBUG: 設定を読みました
+     3  INFO: 処理を開始します
+     4  ERROR: 失敗
+     5  
+  検知 0/2 = 0.0%   誤検知 0/10 = 0.0%   破棄 0

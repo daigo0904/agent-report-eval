@@ -1,0 +1,20 @@
+6本目おわり 08:24 — 総検証を始める
+[08:24:04] == A 相: gemma4 が載っているまま ==
+[08:24:04] A1 対照（型10・調べて答えただけ）10件
+[08:32:17] A2 言い換え（gemma4 に書き換えさせる・嘘だけ）
+[10:28:48] A3 指示の語を伏せた版（型1-3・各4件）
+[11:19:14] == B 相: qwen3:14b に載せ替え ==
+手入れの印を置いた（2時間）
+[13:11:51] == C 相: qwen2.5-coder:14b に載せ替え ==
+[13:19:48] == D 相: gemma4 を常駐に戻して、印を外す ==
+gemma4 を常駐に戻した
+印を外した: (False, '')
+[13:19:56] == 生成おわり ==
+-rw-r--r--  1 daigo  staff   9884  9月 23 08:32 事例/A1-対照-gemma4.jsonl
+-rw-r--r--  1 daigo  staff  82144  9月 23 10:26 事例/A2-言い換え-gemma4.jsonl
+-rw-r--r--  1 daigo  staff  27405  9月 23 11:19 事例/A3-語伏せ-gemma4.jsonl
+-rw-r--r--  1 daigo  staff  22016  9月 23 12:07 事例/B1-束-qwen3.jsonl
+-rw-r--r--  1 daigo  staff   5995  9月 23 12:13 事例/B2-対照-qwen3.jsonl
+-rw-r--r--  1 daigo  staff  62864  9月 23 13:11 事例/B3-言い換え-qwen3.jsonl
+-rw-r--r--  1 daigo  staff  22059  9月 23 13:18 事例/C1-束-qwen25coder.jsonl
+-rw-r--r--  1 daigo  staff   4563  9月 23 13:19 事例/C2-対照-qwen25coder.jsonl

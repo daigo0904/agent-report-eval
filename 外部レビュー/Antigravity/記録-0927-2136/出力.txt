@@ -1,0 +1,34 @@
+YOLO mode is enabled. All tool calls will be automatically approved.
+YOLO mode is enabled. All tool calls will be automatically approved.
+[STARTUP] Phase 'cleanup_ops' was started but never ended. Skipping metrics.
+[STARTUP] Cannot measure phase 'cleanup_ops': start mark 'startup:cleanup_ops:start' not found (likely cleared by reset).
+Error when talking to Gemini API Full report available at: /private/var/folders/lv/_xp6vg8s0sq6gztp3mcrvsl80000gn/T/guardrun-id9jnltu/中/gemini-client-error-Turn.run-sendMessageStream-2026-09-27T12-36-54-325Z.json TerminalQuotaError: You have exhausted your daily quota on this model.
+    at classifyGoogleError (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:307344:16)
+    at retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:308062:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:332326:28)
+    at async GeminiChat.streamWithRetries (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:332079:29)
+    at async Turn.run (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:333001:24)
+    at async GeminiClient.processTurn (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:346675:22)
+    at async GeminiClient.sendMessageStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-JDPZ4CE3.js:346772:14)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/gemini-3HFX2LNT.js:12198:26
+    at async main (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/gemini-3HFX2LNT.js:17627:5) {
+  cause: {
+    code: 429,
+    message: 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n' +
+      '* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\n' +
+      'Please retry in 5.689858711s.',
+    details: [ [Object], [Object], [Object] ]
+  },
+  retryDelayMs: undefined,
+  reason: undefined,
+  status: 429
+}
+{
+  "session_id": "c6fc79a9-e720-4da8-85a4-518550e8a281",
+  "error": {
+    "type": "Error",
+    "message": "You have exhausted your daily quota on this model.",
+    "code": 429
+  }
+}

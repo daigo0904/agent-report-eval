@@ -1,0 +1,1788 @@
+{
+  "date": "2026-10-01",
+  "files": [
+    {
+      "path": "事例/B2-対照-qwen3.jsonl",
+      "source": "~/評価層/事例/B2-対照-qwen3.jsonl",
+      "source_sha256": "2a5cb6618bbf3e3ffe385a56f9390d49e8d4ac3176a267d414fe22e9b30d8522",
+      "published_sha256": "2a5cb6618bbf3e3ffe385a56f9390d49e8d4ac3176a267d414fe22e9b30d8522"
+    },
+    {
+      "path": "事例/H1-holdout-qwen3.jsonl",
+      "source": "~/評価層/事例/H1-holdout-qwen3.jsonl",
+      "source_sha256": "2da17947b5601a5b607f35beda5802db4714916bb8a0e7ad5bf8b53bcb5792f2",
+      "published_sha256": "2da17947b5601a5b607f35beda5802db4714916bb8a0e7ad5bf8b53bcb5792f2"
+    },
+    {
+      "path": "事例/20260923-033700.jsonl",
+      "source": "~/評価層/事例/20260923-033700.jsonl",
+      "source_sha256": "247c58c938d9fb01e258d7dfe8bdc2cc4a33ff83b0115902625ebc80319ea475",
+      "published_sha256": "247c58c938d9fb01e258d7dfe8bdc2cc4a33ff83b0115902625ebc80319ea475"
+    },
+    {
+      "path": "事例/H2-holdout-qwen3.jsonl",
+      "source": "~/評価層/事例/H2-holdout-qwen3.jsonl",
+      "source_sha256": "fc9d5586884cb7849203f37c30e380bd35fecfad89ed333524cc529cfca8fad3",
+      "published_sha256": "fc9d5586884cb7849203f37c30e380bd35fecfad89ed333524cc529cfca8fad3"
+    },
+    {
+      "path": "事例/A3-語伏せ-gemma4.jsonl",
+      "source": "~/評価層/事例/A3-語伏せ-gemma4.jsonl",
+      "source_sha256": "d8d539093b4079c75ae669dfe14de4810ed8061a5797d50f37928c66012960cc",
+      "published_sha256": "d8d539093b4079c75ae669dfe14de4810ed8061a5797d50f37928c66012960cc"
+    },
+    {
+      "path": "事例/20260923-021044.jsonl",
+      "source": "~/評価層/事例/20260923-021044.jsonl",
+      "source_sha256": "695ecabba2ab9f286f3d57852d41200bdb4e1640b2108ce8e279d343f8886c2e",
+      "published_sha256": "695ecabba2ab9f286f3d57852d41200bdb4e1640b2108ce8e279d343f8886c2e"
+    },
+    {
+      "path": "事例/F1-holdout-gemma4.jsonl",
+      "source": "~/評価層/事例/F1-holdout-gemma4.jsonl",
+      "source_sha256": "b77257d49f0dc5c43c276f013e49c0b5abf05f7e0c70676d24da70f755e17a8e",
+      "published_sha256": "b77257d49f0dc5c43c276f013e49c0b5abf05f7e0c70676d24da70f755e17a8e"
+    },
+    {
+      "path": "事例/20260923-065323.jsonl",
+      "source": "~/評価層/事例/20260923-065323.jsonl",
+      "source_sha256": "f067a61c8eef0681e3c3270d7701c968c9e84c69bfef42a15221f8ada2e8a45d",
+      "published_sha256": "f067a61c8eef0681e3c3270d7701c968c9e84c69bfef42a15221f8ada2e8a45d"
+    },
+    {
+      "path": "事例/D1-束-qwen3.jsonl",
+      "source": "~/評価層/事例/D1-束-qwen3.jsonl",
+      "source_sha256": "0f445c43c7d117817e11ae4be02614affe81a46c262f0fd291b9f56a677a5e6d",
+      "published_sha256": "0f445c43c7d117817e11ae4be02614affe81a46c262f0fd291b9f56a677a5e6d"
+    },
+    {
+      "path": "事例/R2-chatgpt.jsonl",
+      "source": "~/評価層/事例/R2-chatgpt.jsonl",
+      "source_sha256": "0e6a9167865c0d842a2f8c612463bdd6784ec3a98436654e2320be0d7ab8c9c5",
+      "published_sha256": "0e6a9167865c0d842a2f8c612463bdd6784ec3a98436654e2320be0d7ab8c9c5"
+    },
+    {
+      "path": "事例/A1-対照-gemma4.jsonl",
+      "source": "~/評価層/事例/A1-対照-gemma4.jsonl",
+      "source_sha256": "02ebad5e03a1db25f7f6f62e31def4b01ca074eab3db2f591ab6a57251f33129",
+      "published_sha256": "02ebad5e03a1db25f7f6f62e31def4b01ca074eab3db2f591ab6a57251f33129"
+    },
+    {
+      "path": "事例/D2-対照-qwen3.jsonl",
+      "source": "~/評価層/事例/D2-対照-qwen3.jsonl",
+      "source_sha256": "30862c632b5d444d3e9c666cdc1f372681d9fe0b37ab0a84d7e062cadf059bfd",
+      "published_sha256": "30862c632b5d444d3e9c666cdc1f372681d9fe0b37ab0a84d7e062cadf059bfd"
+    },
+    {
+      "path": "事例/E1-束-chatgpt.jsonl",
+      "source": "~/評価層/事例/E1-束-chatgpt.jsonl",
+      "source_sha256": "21e986715a1108ad95a1d6e1292e258790ac01268b00bd14ee1b5949a53b1891",
+      "published_sha256": "21e986715a1108ad95a1d6e1292e258790ac01268b00bd14ee1b5949a53b1891"
+    },
+    {
+      "path": "事例/B1-束-qwen3.jsonl",
+      "source": "~/評価層/事例/B1-束-qwen3.jsonl",
+      "source_sha256": "b4a9c061d52ee242652bdf15cdb540ab8c9736fd6831d1d94faea29da7c0b2ed",
+      "published_sha256": "b4a9c061d52ee242652bdf15cdb540ab8c9736fd6831d1d94faea29da7c0b2ed"
+    },
+    {
+      "path": "事例/C2-対照-qwen25coder.jsonl",
+      "source": "~/評価層/事例/C2-対照-qwen25coder.jsonl",
+      "source_sha256": "92b396539f06f33b8cadc5f0c41a5e5890c0e5f80fc4555277f2cc63a3b23ece",
+      "published_sha256": "92b396539f06f33b8cadc5f0c41a5e5890c0e5f80fc4555277f2cc63a3b23ece"
+    },
+    {
+      "path": "事例/F2-holdout-chatgpt.jsonl",
+      "source": "~/評価層/事例/F2-holdout-chatgpt.jsonl",
+      "source_sha256": "f56d7421c0a52a8e2f2e2912f7f04fac60a5d5fea9009f0fc4fcf706e4794baf",
+      "published_sha256": "f56d7421c0a52a8e2f2e2912f7f04fac60a5d5fea9009f0fc4fcf706e4794baf"
+    },
+    {
+      "path": "事例/20260923-053355.jsonl",
+      "source": "~/評価層/事例/20260923-053355.jsonl",
+      "source_sha256": "880ad6a138ac8dbf6745b288481d2331531a84905f29d9d88c87485aae95e870",
+      "published_sha256": "880ad6a138ac8dbf6745b288481d2331531a84905f29d9d88c87485aae95e870"
+    },
+    {
+      "path": "事例/J1-holdout-gemma4.jsonl",
+      "source": "~/評価層/事例/J1-holdout-gemma4.jsonl",
+      "source_sha256": "37dc9843862b5d1467115b0b16abb9b69606e562a39ae7d86374003f41d6da21",
+      "published_sha256": "37dc9843862b5d1467115b0b16abb9b69606e562a39ae7d86374003f41d6da21"
+    },
+    {
+      "path": "事例/20260923-004516.jsonl",
+      "source": "~/評価層/事例/20260923-004516.jsonl",
+      "source_sha256": "c641faf810c2c22ab1dcbc3c351c1041bbeb413f479bc1f0142ccc421fbed6f6",
+      "published_sha256": "c641faf810c2c22ab1dcbc3c351c1041bbeb413f479bc1f0142ccc421fbed6f6"
+    },
+    {
+      "path": "事例/D3-対照-qwen25.jsonl",
+      "source": "~/評価層/事例/D3-対照-qwen25.jsonl",
+      "source_sha256": "d7b81c15ae7cdbfe12acda773cb648da900c5b85b4c79f7a113f738f3bf3d3ac",
+      "published_sha256": "d7b81c15ae7cdbfe12acda773cb648da900c5b85b4c79f7a113f738f3bf3d3ac"
+    },
+    {
+      "path": "事例/R3-qwen3-14b-q4_K_M.jsonl",
+      "source": "~/評価層/事例/R3-qwen3-14b-q4_K_M.jsonl",
+      "source_sha256": "58b1ce378680b82136808ec1ed18dc356adfea1613bb1e57f3939931debc40c2",
+      "published_sha256": "58b1ce378680b82136808ec1ed18dc356adfea1613bb1e57f3939931debc40c2"
+    },
+    {
+      "path": "事例/H2b-holdout-gemma4.jsonl",
+      "source": "~/評価層/事例/H2b-holdout-gemma4.jsonl",
+      "source_sha256": "a89a1249964b661f8f9c8fc2bce2a314ec24030ff19ed3803b38cdf0e723edd1",
+      "published_sha256": "a89a1249964b661f8f9c8fc2bce2a314ec24030ff19ed3803b38cdf0e723edd1"
+    },
+    {
+      "path": "事例/B3-言い換え-qwen3.jsonl",
+      "source": "~/評価層/事例/B3-言い換え-qwen3.jsonl",
+      "source_sha256": "f48e14d8dda58e232ccbafdbab91b560e3f6ed285d304ecfb15fb58f6ff67931",
+      "published_sha256": "f48e14d8dda58e232ccbafdbab91b560e3f6ed285d304ecfb15fb58f6ff67931"
+    },
+    {
+      "path": "事例/G3-holdout-qwen25coder.jsonl",
+      "source": "~/評価層/事例/G3-holdout-qwen25coder.jsonl",
+      "source_sha256": "7562902f9fb1872aa74272bc7b925fb54d822cf95e8ebb235fd9c4025f390760",
+      "published_sha256": "7562902f9fb1872aa74272bc7b925fb54d822cf95e8ebb235fd9c4025f390760"
+    },
+    {
+      "path": "事例/R1-gemma4-26b.jsonl",
+      "source": "~/評価層/事例/R1-gemma4-26b.jsonl",
+      "source_sha256": "83f4fd6613a33f52cac5416abc08ea5333b2bc4230cef39c5816b7c3c58d816c",
+      "published_sha256": "83f4fd6613a33f52cac5416abc08ea5333b2bc4230cef39c5816b7c3c58d816c"
+    },
+    {
+      "path": "事例/20260922-234732.jsonl",
+      "source": "~/評価層/事例/20260922-234732.jsonl",
+      "source_sha256": "ebf93faedfc4c71685e5abaf3a1594bfa6e75e3bfee084e3c9ca39c5e6a957da",
+      "published_sha256": "70762077776f9a32c2e1bc2570439a30adfb8885ad0c24954e5d75e09e57f500"
+    },
+    {
+      "path": "事例/I1-holdout-gemma4.jsonl",
+      "source": "~/評価層/事例/I1-holdout-gemma4.jsonl",
+      "source_sha256": "a376e1acaa5f65da581ad0056a2106406dd291ec060b1692ddf8082ee929f848",
+      "published_sha256": "a376e1acaa5f65da581ad0056a2106406dd291ec060b1692ddf8082ee929f848"
+    },
+    {
+      "path": "事例/C1-束-qwen25coder.jsonl",
+      "source": "~/評価層/事例/C1-束-qwen25coder.jsonl",
+      "source_sha256": "c617c94250c613165560e5296f7893bc8f514517dd0806fdbe631613587fcd15",
+      "published_sha256": "c617c94250c613165560e5296f7893bc8f514517dd0806fdbe631613587fcd15"
+    },
+    {
+      "path": "事例/A2-言い換え-gemma4.jsonl",
+      "source": "~/評価層/事例/A2-言い換え-gemma4.jsonl",
+      "source_sha256": "74878cfa1c4622bbb65b8c5f27df1d8f495f887d13b674ebc5c22fbbf7a92e21",
+      "published_sha256": "4468fb8d7574c12b3dd30f9db455f2e6ab5578aa5f5fd4ecbac0ccd389033e47"
+    },
+    {
+      "path": "事例/K1-holdout-gemma4.jsonl",
+      "source": "~/評価層/事例/K1-holdout-gemma4.jsonl",
+      "source_sha256": "ebfc36add87bcb8945493557100baf93e4d7bd82d6dd05e3371c9fda24a56d22",
+      "published_sha256": "ebfc36add87bcb8945493557100baf93e4d7bd82d6dd05e3371c9fda24a56d22"
+    },
+    {
+      "path": "事例/E2-束-chatgpt.jsonl",
+      "source": "~/評価層/事例/E2-束-chatgpt.jsonl",
+      "source_sha256": "768242d07bfb2374f74e15c82e907b3c787bfd1090b2d0958141317be387cb64",
+      "published_sha256": "768242d07bfb2374f74e15c82e907b3c787bfd1090b2d0958141317be387cb64"
+    },
+    {
+      "path": "事例/L1-型11-gemma4.jsonl",
+      "source": "~/評価層/事例/L1-型11-gemma4.jsonl",
+      "source_sha256": "2f428e9761fd4d41508f42e7b1e4804e61472a28726d203956f2a8a325e285d0",
+      "published_sha256": "2f428e9761fd4d41508f42e7b1e4804e61472a28726d203956f2a8a325e285d0"
+    },
+    {
+      "path": "記録/総検証-20260923-082404.log",
+      "source": "~/評価層/記録/総検証-20260923-082404.log",
+      "source_sha256": "70da006b5d4c5ca2e75d83bddac36c869835119d62acdc6942d78255cd2a5578",
+      "published_sha256": "70da006b5d4c5ca2e75d83bddac36c869835119d62acdc6942d78255cd2a5578"
+    },
+    {
+      "path": "記録/holdout-gemma4.log",
+      "source": "~/評価層/記録/holdout-gemma4.log",
+      "source_sha256": "c8ac7e4ae969dbb0d6d5667c01a5ff4d1cbf0213aaeab160e26c1922d2e9eef8",
+      "published_sha256": "c8ac7e4ae969dbb0d6d5667c01a5ff4d1cbf0213aaeab160e26c1922d2e9eef8"
+    },
+    {
+      "path": "記録/J1-判定基準.md",
+      "source": "~/評価層/記録/J1-判定基準.md",
+      "source_sha256": "561678603a37e7fd49ba30c5e2f2a1dfb74bef394a15d9fcca15cd25e6ba161b",
+      "published_sha256": "561678603a37e7fd49ba30c5e2f2a1dfb74bef394a15d9fcca15cd25e6ba161b"
+    },
+    {
+      "path": "記録/周回-生成.log",
+      "source": "~/評価層/記録/周回-生成.log",
+      "source_sha256": "8fb7df6991b0d7e880ffc6491ecc81a6497f8f7d1ef4ef3915ec7ef7be0bbd3d",
+      "published_sha256": "8fb7df6991b0d7e880ffc6491ecc81a6497f8f7d1ef4ef3915ec7ef7be0bbd3d"
+    },
+    {
+      "path": "記録/総検証-出力.log",
+      "source": "~/評価層/記録/総検証-出力.log",
+      "source_sha256": "3e221f98ffb54c345a7d1ba5e40368133e70c0575373656141500029a46cc53d",
+      "published_sha256": "3e221f98ffb54c345a7d1ba5e40368133e70c0575373656141500029a46cc53d"
+    },
+    {
+      "path": "記録/chatgpt-本番.log",
+      "source": "~/評価層/記録/chatgpt-本番.log",
+      "source_sha256": "79dadab5ffd36f9c59a5d5573580cac01150c9a61d093ce7317c019033e283c1",
+      "published_sha256": "79dadab5ffd36f9c59a5d5573580cac01150c9a61d093ce7317c019033e283c1"
+    },
+    {
+      "path": "記録/J1-holdout-gemma4-判定.jsonl",
+      "source": "~/評価層/記録/J1-holdout-gemma4-判定.jsonl",
+      "source_sha256": "97b43e3000ef679aa9a19c16e9afd5b088be5e5cc012f41eb935c828686b61fa",
+      "published_sha256": "97b43e3000ef679aa9a19c16e9afd5b088be5e5cc012f41eb935c828686b61fa"
+    },
+    {
+      "path": "記録/本走3-20260923-021044.log",
+      "source": "~/評価層/記録/本走3-20260923-021044.log",
+      "source_sha256": "407c04763b984c32a84f4a6feda2220a4dec0eafa1810835a859569af46551dc",
+      "published_sha256": "407c04763b984c32a84f4a6feda2220a4dec0eafa1810835a859569af46551dc"
+    },
+    {
+      "path": "記録/周回台帳.tsv",
+      "source": "~/評価層/記録/周回台帳.tsv",
+      "source_sha256": "675aa8980e93778de5c162f3da5706fe05c4bb3c8f7799dbc46d25baa294587d",
+      "published_sha256": "675aa8980e93778de5c162f3da5706fe05c4bb3c8f7799dbc46d25baa294587d"
+    },
+    {
+      "path": "記録/20260923-065323.jsonl",
+      "source": "~/評価層/記録/20260923-065323.jsonl",
+      "source_sha256": "d564a77c59bb3411917e49b9bcf20565cf6b1518d1965e7284026f7cf1728f14",
+      "published_sha256": "d564a77c59bb3411917e49b9bcf20565cf6b1518d1965e7284026f7cf1728f14"
+    },
+    {
+      "path": "記録/本走2-20260923-004102.log",
+      "source": "~/評価層/記録/本走2-20260923-004102.log",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "記録/K1-holdout-gemma4-判定.jsonl",
+      "source": "~/評価層/記録/K1-holdout-gemma4-判定.jsonl",
+      "source_sha256": "0f6b4e63c979c2405d386f25b23abd8cd7bf339d409ef44fdbd8e91f42ead34b",
+      "published_sha256": "0f6b4e63c979c2405d386f25b23abd8cd7bf339d409ef44fdbd8e91f42ead34b"
+    },
+    {
+      "path": "記録/総比較-20260923-132112.txt",
+      "source": "~/評価層/記録/総比較-20260923-132112.txt",
+      "source_sha256": "23fc2014ee2682065818e9427b220460332902aaa2bcf6db4aa2b8e1907ac225",
+      "published_sha256": "23fc2014ee2682065818e9427b220460332902aaa2bcf6db4aa2b8e1907ac225"
+    },
+    {
+      "path": "記録/holdout-chatgpt.log",
+      "source": "~/評価層/記録/holdout-chatgpt.log",
+      "source_sha256": "5b984a5d9f6498764479fe1071a2dee921dd1c5de7a137cb7c4f876fb6eed68c",
+      "published_sha256": "5b984a5d9f6498764479fe1071a2dee921dd1c5de7a137cb7c4f876fb6eed68c"
+    },
+    {
+      "path": "記録/追検証-出力.log",
+      "source": "~/評価層/記録/追検証-出力.log",
+      "source_sha256": "6a0690312bb8cbc4ac48080d675c34ade128f08a43de8746910b8f66c57985ab",
+      "published_sha256": "6a0690312bb8cbc4ac48080d675c34ade128f08a43de8746910b8f66c57985ab"
+    },
+    {
+      "path": "記録/本走2-20260923-004515.log",
+      "source": "~/評価層/記録/本走2-20260923-004515.log",
+      "source_sha256": "0e6d7c5c3829beed96d870fadcf9c4cf106e8468ec7aacfa671b38b7050a1050",
+      "published_sha256": "0e6d7c5c3829beed96d870fadcf9c4cf106e8468ec7aacfa671b38b7050a1050"
+    },
+    {
+      "path": "記録/周回-1.log",
+      "source": "~/評価層/記録/周回-1.log",
+      "source_sha256": "260c79bf82434a53a9b68fea6c43bcf11d7fbf7fc4e410b3e394966c7a574f93",
+      "published_sha256": "260c79bf82434a53a9b68fea6c43bcf11d7fbf7fc4e410b3e394966c7a574f93"
+    },
+    {
+      "path": "記録/周回-3.log",
+      "source": "~/評価層/記録/周回-3.log",
+      "source_sha256": "1595f07926a56465fb0d9b9a385b9e5de5775fee378b8daba3df314a99e0cad9",
+      "published_sha256": "1595f07926a56465fb0d9b9a385b9e5de5775fee378b8daba3df314a99e0cad9"
+    },
+    {
+      "path": "記録/周回-2.log",
+      "source": "~/評価層/記録/周回-2.log",
+      "source_sha256": "0e812c92e4eb20ca2cabf2cbea03c3a7419fb89df0185e13295d8a56071d539a",
+      "published_sha256": "0e812c92e4eb20ca2cabf2cbea03c3a7419fb89df0185e13295d8a56071d539a"
+    },
+    {
+      "path": "記録/総比較-出力.log",
+      "source": "~/評価層/記録/総比較-出力.log",
+      "source_sha256": "7e7b2a79fe21eacaa21865bd7cf3e414e20dce8b4816f1e2fcf12405ad80d488",
+      "published_sha256": "7e7b2a79fe21eacaa21865bd7cf3e414e20dce8b4816f1e2fcf12405ad80d488"
+    },
+    {
+      "path": "記録/本走6-20260923-065323.log",
+      "source": "~/評価層/記録/本走6-20260923-065323.log",
+      "source_sha256": "dc1497f540c32c525bee32d2d01508b85879e4b9233ee18487fbefdde74728b0",
+      "published_sha256": "dc1497f540c32c525bee32d2d01508b85879e4b9233ee18487fbefdde74728b0"
+    },
+    {
+      "path": "記録/本走-20260922-234732.log",
+      "source": "~/評価層/記録/本走-20260922-234732.log",
+      "source_sha256": "eeb9ea33337093b1bb2ca97d9fb636b490da44aa2e3d3d9a1bafd94cd441dfa2",
+      "published_sha256": "eeb9ea33337093b1bb2ca97d9fb636b490da44aa2e3d3d9a1bafd94cd441dfa2"
+    },
+    {
+      "path": "記録/I1-holdout-gemma4-判定.jsonl",
+      "source": "~/評価層/記録/I1-holdout-gemma4-判定.jsonl",
+      "source_sha256": "61d8e6147078de2a91c4dcb542a47e7a6392663726cb0eea2694a83d186397fb",
+      "published_sha256": "61d8e6147078de2a91c4dcb542a47e7a6392663726cb0eea2694a83d186397fb"
+    },
+    {
+      "path": "記録/種-最新.jsonl",
+      "source": "~/評価層/記録/種-最新.jsonl",
+      "source_sha256": "a626b90a64af7871152229bf1504f90d44566e7c9743d9eb9c46e3a682d569ba",
+      "published_sha256": "a626b90a64af7871152229bf1504f90d44566e7c9743d9eb9c46e3a682d569ba"
+    },
+    {
+      "path": "記録/追検証-20260923-132043.log",
+      "source": "~/評価層/記録/追検証-20260923-132043.log",
+      "source_sha256": "a738612259b933faba27f6c726559bf108113e44d1ef24688f4ed2b88251a7ea",
+      "published_sha256": "a738612259b933faba27f6c726559bf108113e44d1ef24688f4ed2b88251a7ea"
+    },
+    {
+      "path": "記録/本走4-20260923-033700.log",
+      "source": "~/評価層/記録/本走4-20260923-033700.log",
+      "source_sha256": "e47470e3aa9ef666a36f2a6ba892ace2c246976bc1746d3c0e46c29349f12fa2",
+      "published_sha256": "e47470e3aa9ef666a36f2a6ba892ace2c246976bc1746d3c0e46c29349f12fa2"
+    },
+    {
+      "path": "記録/本走5-20260923-053355.log",
+      "source": "~/評価層/記録/本走5-20260923-053355.log",
+      "source_sha256": "8b0b4623b933524a295b468d32a579eeffeacdd08bef07de9c947b7404b5250e",
+      "published_sha256": "8b0b4623b933524a295b468d32a579eeffeacdd08bef07de9c947b7404b5250e"
+    },
+    {
+      "path": "記録/chatgpt-試し.log",
+      "source": "~/評価層/記録/chatgpt-試し.log",
+      "source_sha256": "39d5329eaea7a7fd96e6a173faa485d1a40324e609a8a55a09187adf0e55d148",
+      "published_sha256": "39d5329eaea7a7fd96e6a173faa485d1a40324e609a8a55a09187adf0e55d148"
+    },
+    {
+      "path": "記録/集計.log",
+      "source": "~/評価層/記録/集計.log",
+      "source_sha256": "40cd809dca55690c19fd10e029eab40f472dbe295363340b21c66c50eb6168e1",
+      "published_sha256": "40cd809dca55690c19fd10e029eab40f472dbe295363340b21c66c50eb6168e1"
+    },
+    {
+      "path": "独立神託/読み手2-実走本物.log",
+      "source": "~/評価層/独立神託/読み手2-実走本物.log",
+      "source_sha256": "6376c5d41577772a8ee7c714a94a4de596627023039a08ccf3999921d0335cb1",
+      "published_sha256": "6376c5d41577772a8ee7c714a94a4de596627023039a08ccf3999921d0335cb1"
+    },
+    {
+      "path": "独立神託/出力-再読.txt",
+      "source": "~/評価層/独立神託/出力-再読.txt",
+      "source_sha256": "699883b980b7d32053dcdc6ec20a0693035b9a4544117c08fe377a87fcafd709",
+      "published_sha256": "a1aa9c37afedfd4673eb9383395bc567eb3607c3aa587e49e3f504a07ceabbc2"
+    },
+    {
+      "path": "独立神託/世界-heldout.err",
+      "source": "~/評価層/独立神託/世界-heldout.err",
+      "source_sha256": "0f4132ac05608f9f65f43d2597ab36445a1e6b58e5d73122294db12d98e06d7a",
+      "published_sha256": "0f4132ac05608f9f65f43d2597ab36445a1e6b58e5d73122294db12d98e06d7a"
+    },
+    {
+      "path": "独立神託/束-held-v2.txt",
+      "source": "~/評価層/独立神託/束-held-v2.txt",
+      "source_sha256": "f3dd5afa479aee8e6a4feb5f3301845e889a09e739ad158d0f0c0544d8b32b70",
+      "published_sha256": "f3dd5afa479aee8e6a4feb5f3301845e889a09e739ad158d0f0c0544d8b32b70"
+    },
+    {
+      "path": "独立神託/結果.md",
+      "source": "~/評価層/独立神託/結果.md",
+      "source_sha256": "d9ab44e39ac8c07e5328b31f1aeed59c194e6e29e4278b45af430f295d92a79b",
+      "published_sha256": "d9ab44e39ac8c07e5328b31f1aeed59c194e6e29e4278b45af430f295d92a79b"
+    },
+    {
+      "path": "独立神託/検知-G3-直す前.jsonl",
+      "source": "~/評価層/独立神託/検知-G3-直す前.jsonl",
+      "source_sha256": "6526538e883e402f56eb0572d8c750b8328da4a859b08db2ee77debf91789189",
+      "published_sha256": "6526538e883e402f56eb0572d8c750b8328da4a859b08db2ee77debf91789189"
+    },
+    {
+      "path": "独立神託/事例-実走.jsonl",
+      "source": "~/評価層/独立神託/事例-実走.jsonl",
+      "source_sha256": "f52d1bb642665e4377e7b8b9c6d91cf3a20046574a4d24fd6329e9a02eb46742",
+      "published_sha256": "f52d1bb642665e4377e7b8b9c6d91cf3a20046574a4d24fd6329e9a02eb46742"
+    },
+    {
+      "path": "独立神託/検知-H2-直す前.jsonl",
+      "source": "~/評価層/独立神託/検知-H2-直す前.jsonl",
+      "source_sha256": "3496ddfbf0b0f07b11e523637c359113d56521d63dad9822ce6084010932a720",
+      "published_sha256": "3496ddfbf0b0f07b11e523637c359113d56521d63dad9822ce6084010932a720"
+    },
+    {
+      "path": "独立神託/束-型-実走.txt",
+      "source": "~/評価層/独立神託/束-型-実走.txt",
+      "source_sha256": "271a41ad6c6d2714f59772aa3831450703156585fe3131b64fea881e600134d6",
+      "published_sha256": "271a41ad6c6d2714f59772aa3831450703156585fe3131b64fea881e600134d6"
+    },
+    {
+      "path": "独立神託/回す.sh",
+      "source": "~/評価層/独立神託/回す.sh",
+      "source_sha256": "47751f2306961eea302ef58cb0c9cf24a9bd46fa552fd8e60a49975af0b9a926",
+      "published_sha256": "47751f2306961eea302ef58cb0c9cf24a9bd46fa552fd8e60a49975af0b9a926"
+    },
+    {
+      "path": "独立神託/束-型.txt",
+      "source": "~/評価層/独立神託/束-型.txt",
+      "source_sha256": "58d687416df28f93d638c66b5754d69b6a6888943c82e13be3429add75da0191",
+      "published_sha256": "58d687416df28f93d638c66b5754d69b6a6888943c82e13be3429add75da0191"
+    },
+    {
+      "path": "独立神託/実走を読ませる.sh",
+      "source": "~/評価層/独立神託/実走を読ませる.sh",
+      "source_sha256": "38a9c6d62cadbf5f0ac6b454c59d4c2404440e89babd03e1471a088b1fbccae2",
+      "published_sha256": "38a9c6d62cadbf5f0ac6b454c59d4c2404440e89babd03e1471a088b1fbccae2"
+    },
+    {
+      "path": "独立神託/全部-7eeaad6.jsonl",
+      "source": "~/評価層/独立神託/全部-7eeaad6.jsonl",
+      "source_sha256": "d3c11e812fbd4f342a261a4f433c99f85c8fa7df2d9216cbcad5368429525df5",
+      "published_sha256": "d3c11e812fbd4f342a261a4f433c99f85c8fa7df2d9216cbcad5368429525df5"
+    },
+    {
+      "path": "独立神託/Codex-型.json",
+      "source": "~/評価層/独立神託/Codex-型.json",
+      "source_sha256": "0e3b3ac9703805f25caaa735d1da0d5ab9a12ef289d6d102e6e14a500bdfbce9",
+      "published_sha256": "0e3b3ac9703805f25caaa735d1da0d5ab9a12ef289d6d102e6e14a500bdfbce9"
+    },
+    {
+      "path": "独立神託/出力-型-実走.txt",
+      "source": "~/評価層/独立神託/出力-型-実走.txt",
+      "source_sha256": "349b2016b283fdd55c332792c34dd105bd08e47aac83cf1abbf718042971286b",
+      "published_sha256": "edc37ceac01963539737d95b1d634401612c98deaa9ca869e08b463fae0c59c7"
+    },
+    {
+      "path": "独立神託/束-AI.txt",
+      "source": "~/評価層/独立神託/束-AI.txt",
+      "source_sha256": "c7200d23daf4e272576e87c05b842cc1605bf09ef360519348970ee184bdfbe1",
+      "published_sha256": "c7200d23daf4e272576e87c05b842cc1605bf09ef360519348970ee184bdfbe1"
+    },
+    {
+      "path": "独立神託/実走を読ませる.log",
+      "source": "~/評価層/独立神託/実走を読ませる.log",
+      "source_sha256": "0e5758e5f61f4d381c1cc40eeb102650f2a47dd287b6c17de77c8fa53b604bf9",
+      "published_sha256": "0e5758e5f61f4d381c1cc40eeb102650f2a47dd287b6c17de77c8fa53b604bf9"
+    },
+    {
+      "path": "独立神託/再生が合わない走り.json",
+      "source": "~/評価層/独立神託/再生が合わない走り.json",
+      "source_sha256": "ff2e7816c331dbf26a1dbd842d88d33032cd098b5d5e2365c8245668b9973e26",
+      "published_sha256": "ff2e7816c331dbf26a1dbd842d88d33032cd098b5d5e2365c8245668b9973e26"
+    },
+    {
+      "path": "独立神託/p-再読.txt",
+      "source": "~/評価層/独立神託/p-再読.txt",
+      "source_sha256": "f6cf0ea92d3bf99212c345b75ef46c3c182f58e01e78c34a341e530efa0f0129",
+      "published_sha256": "f6cf0ea92d3bf99212c345b75ef46c3c182f58e01e78c34a341e530efa0f0129"
+    },
+    {
+      "path": "独立神託/p-型-実走.txt",
+      "source": "~/評価層/独立神託/p-型-実走.txt",
+      "source_sha256": "46b17da9ab5c0167e6cd0ff97e7aa28cfb2d294b0620920908ec9de82bca29dd",
+      "published_sha256": "46b17da9ab5c0167e6cd0ff97e7aa28cfb2d294b0620920908ec9de82bca29dd"
+    },
+    {
+      "path": "独立神託/頼み-型.txt",
+      "source": "~/評価層/独立神託/頼み-型.txt",
+      "source_sha256": "fd5141d0c1d9cff0bf0c209f27d0c713f9540c9104447fe3c2c1c5d6f9d608fb",
+      "published_sha256": "fd5141d0c1d9cff0bf0c209f27d0c713f9540c9104447fe3c2c1c5d6f9d608fb"
+    },
+    {
+      "path": "独立神託/伏せる.py",
+      "source": "~/評価層/独立神託/伏せる.py",
+      "source_sha256": "c487c222c8989f24e35a300af535ee1808f260f688de26f074f288ac761dfac9",
+      "published_sha256": "c487c222c8989f24e35a300af535ee1808f260f688de26f074f288ac761dfac9"
+    },
+    {
+      "path": "独立神託/三人集計-出力.txt",
+      "source": "~/評価層/独立神託/三人集計-出力.txt",
+      "source_sha256": "1d8313960675107345e780c69c5714c01e4a2ae99512d83ccf84ae4a3e8b472d",
+      "published_sha256": "1d8313960675107345e780c69c5714c01e4a2ae99512d83ccf84ae4a3e8b472d"
+    },
+    {
+      "path": "独立神託/p-実走1.txt",
+      "source": "~/評価層/独立神託/p-実走1.txt",
+      "source_sha256": "4e546927a907d60885199af4d5e0c291e8cb1f40bcfedeca7000c75f7efd44ac",
+      "published_sha256": "4e546927a907d60885199af4d5e0c291e8cb1f40bcfedeca7000c75f7efd44ac"
+    },
+    {
+      "path": "独立神託/出力-4.txt",
+      "source": "~/評価層/独立神託/出力-4.txt",
+      "source_sha256": "50bf234fb0e970783c6769a4dbd4fc22fbb480c9dca548c8d382351a91028f2d",
+      "published_sha256": "40b728db164ae2081d1a37355afecc204c787ac89ed628eea312291e211a7ba1"
+    },
+    {
+      "path": "独立神託/見張り-実走本物.json",
+      "source": "~/評価層/独立神託/見張り-実走本物.json",
+      "source_sha256": "3d4d37dba4a47ff91ae792aec03fde52e765867e635fd83324b4136eed41aeb8",
+      "published_sha256": "3d4d37dba4a47ff91ae792aec03fde52e765867e635fd83324b4136eed41aeb8"
+    },
+    {
+      "path": "独立神託/p-実走2.txt",
+      "source": "~/評価層/独立神託/p-実走2.txt",
+      "source_sha256": "8b767784ba421faad9808f9c9ad7d80b70886119d43879afcf636e8b9d1e4369",
+      "published_sha256": "8b767784ba421faad9808f9c9ad7d80b70886119d43879afcf636e8b9d1e4369"
+    },
+    {
+      "path": "独立神託/再生-合う.jsonl",
+      "source": "~/評価層/独立神託/再生-合う.jsonl",
+      "source_sha256": "bb5c4d6502faeaeac58b73d20353cb39e97a023079a76c5dd9e976e684cfec56",
+      "published_sha256": "bb5c4d6502faeaeac58b73d20353cb39e97a023079a76c5dd9e976e684cfec56"
+    },
+    {
+      "path": "独立神託/p-実走3.txt",
+      "source": "~/評価層/独立神託/p-実走3.txt",
+      "source_sha256": "adcc3fcc26d5955a93e8bafa50ae812bca861e0ca4b2d9b6af89bfdc04cdbbfc",
+      "published_sha256": "adcc3fcc26d5955a93e8bafa50ae812bca861e0ca4b2d9b6af89bfdc04cdbbfc"
+    },
+    {
+      "path": "独立神託/実走-判定基準.md",
+      "source": "~/評価層/独立神託/実走-判定基準.md",
+      "source_sha256": "5229128f717c40e5ff02941cc0f153b48373f9fe2b57b51a0eadea3b1e5a1194",
+      "published_sha256": "5229128f717c40e5ff02941cc0f153b48373f9fe2b57b51a0eadea3b1e5a1194"
+    },
+    {
+      "path": "独立神託/出力-2.txt",
+      "source": "~/評価層/独立神託/出力-2.txt",
+      "source_sha256": "e4e02db2a8bf04f80a2e9a5734fb72b46f4a37ab2878643c096c41fa9e6654c9",
+      "published_sha256": "5f75ced72aebc27cf88cd1ebe5e8797f3ef99693fd60bf6a9e62af83b1758bf6"
+    },
+    {
+      "path": "独立神託/出力-3.txt",
+      "source": "~/評価層/独立神託/出力-3.txt",
+      "source_sha256": "b91b38b5e43d3c220004d868d28c71e25ca0f34ffc9d285abcccfeebc9a062cf",
+      "published_sha256": "94aa378eb8e1906da111f30afad517bac850e142a7d8a92a7392004a1d32c1b7"
+    },
+    {
+      "path": "独立神託/全部-270ecf0.err",
+      "source": "~/評価層/独立神託/全部-270ecf0.err",
+      "source_sha256": "47657ca03146eb2762737cd0862fa2f4184fa0acadc6dcb7a3511cb9d6bd23d9",
+      "published_sha256": "47657ca03146eb2762737cd0862fa2f4184fa0acadc6dcb7a3511cb9d6bd23d9"
+    },
+    {
+      "path": "独立神託/出力-1.txt",
+      "source": "~/評価層/独立神託/出力-1.txt",
+      "source_sha256": "0fdfe0a52761953f667962dd4ac2f7e9c2db8dbb15b23624cf7b4a28f5608f94",
+      "published_sha256": "f8e61f897bcd7914cfdda5d30f9468387b634d772e78138e92ea4bb1bafd7c09"
+    },
+    {
+      "path": "独立神託/出力-実走.txt",
+      "source": "~/評価層/独立神託/出力-実走.txt",
+      "source_sha256": "eb9238b287e8fe5f23c33457008cdcd31d12e5538870a16f470ec377c93731d2",
+      "published_sha256": "eb9238b287e8fe5f23c33457008cdcd31d12e5538870a16f470ec377c93731d2"
+    },
+    {
+      "path": "独立神託/実走.py",
+      "source": "~/評価層/独立神託/実走.py",
+      "source_sha256": "239d8ec51780db19880bd9cb6b4ee71eebb706fbdfd0c8f383658bcfa1bccae7",
+      "published_sha256": "239d8ec51780db19880bd9cb6b4ee71eebb706fbdfd0c8f383658bcfa1bccae7"
+    },
+    {
+      "path": "独立神託/束-実走.txt",
+      "source": "~/評価層/独立神託/束-実走.txt",
+      "source_sha256": "77dd0a821d702cec00c991a9bb339ab0bb34b23295e6edf29c5f2d3741ba3ae1",
+      "published_sha256": "77dd0a821d702cec00c991a9bb339ab0bb34b23295e6edf29c5f2d3741ba3ae1"
+    },
+    {
+      "path": "独立神託/束-2.txt",
+      "source": "~/評価層/独立神託/束-2.txt",
+      "source_sha256": "49f667e9e46d925105e36baf8251b10da8fad9cf04e3630f8273544d47883362",
+      "published_sha256": "49f667e9e46d925105e36baf8251b10da8fad9cf04e3630f8273544d47883362"
+    },
+    {
+      "path": "独立神託/再生-270ecf0.jsonl",
+      "source": "~/評価層/独立神託/再生-270ecf0.jsonl",
+      "source_sha256": "9f0493cdc464d9b8ea67375fa9f1e76148f813b581d9d9ecf9798717bfcdeeff",
+      "published_sha256": "9f0493cdc464d9b8ea67375fa9f1e76148f813b581d9d9ecf9798717bfcdeeff"
+    },
+    {
+      "path": "独立神託/世界-heldout.jsonl",
+      "source": "~/評価層/独立神託/世界-heldout.jsonl",
+      "source_sha256": "40080bcb812042d456e0bb60ea604dff5f90fff80d26af2cc8e14566ebefa921",
+      "published_sha256": "40080bcb812042d456e0bb60ea604dff5f90fff80d26af2cc8e14566ebefa921"
+    },
+    {
+      "path": "独立神託/対応-実走本物.json",
+      "source": "~/評価層/独立神託/対応-実走本物.json",
+      "source_sha256": "62a6505a80a7f0729ab55ccb90bee30095de452c92d85e69d3838243b374c48d",
+      "published_sha256": "62a6505a80a7f0729ab55ccb90bee30095de452c92d85e69d3838243b374c48d"
+    },
+    {
+      "path": "独立神託/読み手2.log",
+      "source": "~/評価層/独立神託/読み手2.log",
+      "source_sha256": "e8bec37f90573639e9dcc31e5049fadf643f6b490eaa1518b1c97681fa2e5117",
+      "published_sha256": "e8bec37f90573639e9dcc31e5049fadf643f6b490eaa1518b1c97681fa2e5117"
+    },
+    {
+      "path": "独立神託/再生-270ecf0.err",
+      "source": "~/評価層/独立神託/再生-270ecf0.err",
+      "source_sha256": "78560435e31c6801fa05806ac7ad73258cf423984097fd8facc664c85b122abb",
+      "published_sha256": "78560435e31c6801fa05806ac7ad73258cf423984097fd8facc664c85b122abb"
+    },
+    {
+      "path": "独立神託/世界-heldout-v2.jsonl",
+      "source": "~/評価層/独立神託/世界-heldout-v2.jsonl",
+      "source_sha256": "fd04e0025b8b3c11e2fb3b90933dde97cc55598dddf1e341f2720d2b46d5ad84",
+      "published_sha256": "fd04e0025b8b3c11e2fb3b90933dde97cc55598dddf1e341f2720d2b46d5ad84"
+    },
+    {
+      "path": "独立神託/三人集計.py",
+      "source": "~/評価層/独立神託/三人集計.py",
+      "source_sha256": "d4ca1006c82d9c9dc94da13c447b919de17848913463c4cbb1887ed8c3286b12",
+      "published_sha256": "f64857853d5beba3d5afba7b376b4c38fcd6b54f236b8e9a78f8f017e0a564c4"
+    },
+    {
+      "path": "独立神託/頼み-gemini.txt",
+      "source": "~/評価層/独立神託/頼み-gemini.txt",
+      "source_sha256": "9fef373a251a65d3fa992d405417c35dff48c7eeee58e118db3aaefe46efd347",
+      "published_sha256": "9fef373a251a65d3fa992d405417c35dff48c7eeee58e118db3aaefe46efd347"
+    },
+    {
+      "path": "独立神託/検知-G3-直す前.err",
+      "source": "~/評価層/独立神託/検知-G3-直す前.err",
+      "source_sha256": "4d286c8d28c11d80069a23afcbdc23f84a354adf7c4c73f9809a213271d15acd",
+      "published_sha256": "4d286c8d28c11d80069a23afcbdc23f84a354adf7c4c73f9809a213271d15acd"
+    },
+    {
+      "path": "独立神託/実走.log",
+      "source": "~/評価層/独立神託/実走.log",
+      "source_sha256": "bb95f9630a32fab7b556716fd9ee40c26cc7dd15356f50a06621424bc87a7978",
+      "published_sha256": "578c1df7077eac4ff105c6881affffd953db0f221e674e229d9f44604e4a154d"
+    },
+    {
+      "path": "独立神託/本物の世界.py",
+      "source": "~/評価層/独立神託/本物の世界.py",
+      "source_sha256": "a0f5f3402d76584ed83c90785c4745f5bed91d11f781c7e58af3e5d114db1b6e",
+      "published_sha256": "a0f5f3402d76584ed83c90785c4745f5bed91d11f781c7e58af3e5d114db1b6e"
+    },
+    {
+      "path": "独立神託/束-3.txt",
+      "source": "~/評価層/独立神託/束-3.txt",
+      "source_sha256": "c5b873388e97354a29b59f55f9a46ca4757cef8396ab0e888358ddd6bc1c4a77",
+      "published_sha256": "c5b873388e97354a29b59f55f9a46ca4757cef8396ab0e888358ddd6bc1c4a77"
+    },
+    {
+      "path": "独立神託/全部当てる.mjs",
+      "source": "~/評価層/独立神託/全部当てる.mjs",
+      "source_sha256": "f5e16f79d4bfc8925e652d67ef96fc19ddc4740574ada46d2258ef83c80a729e",
+      "published_sha256": "f5e16f79d4bfc8925e652d67ef96fc19ddc4740574ada46d2258ef83c80a729e"
+    },
+    {
+      "path": "独立神託/出力-gemma4.jsonl",
+      "source": "~/評価層/独立神託/出力-gemma4.jsonl",
+      "source_sha256": "aee5a85f65a922fc4840e4521516cba3f6a6640155ed803af56edc688e679990",
+      "published_sha256": "aee5a85f65a922fc4840e4521516cba3f6a6640155ed803af56edc688e679990"
+    },
+    {
+      "path": "独立神託/出力-実走1.txt",
+      "source": "~/評価層/独立神託/出力-実走1.txt",
+      "source_sha256": "648007f432bb0bffaa0b7ddad77c62da285a7fa5d16c54528369d513195214d7",
+      "published_sha256": "70be2ea06c7e66678713bcef447286e6bb769a9251fb614100ce431b44eaa3a9"
+    },
+    {
+      "path": "独立神託/出力-実走3.txt",
+      "source": "~/評価層/独立神託/出力-実走3.txt",
+      "source_sha256": "ac45d977d5dcd24d9cf51af0b07157fc400d884b12c0d66acc977ac8a8b06cd1",
+      "published_sha256": "2446ef25843eaaf81fef13f5c7c0cc167f57c45bdbf83d5fef3d62d7fc02eb00"
+    },
+    {
+      "path": "独立神託/束-1.txt",
+      "source": "~/評価層/独立神託/束-1.txt",
+      "source_sha256": "fa3ced352d110e0727d725e7c6bde4df76e7b7eabb1e31d93fd648e88280f14c",
+      "published_sha256": "fa3ced352d110e0727d725e7c6bde4df76e7b7eabb1e31d93fd648e88280f14c"
+    },
+    {
+      "path": "独立神託/二人集計.py",
+      "source": "~/評価層/独立神託/二人集計.py",
+      "source_sha256": "4aa8ec4a13b3d00829dd4a5562991c0021648edc581c2f37f5496491b56e0286",
+      "published_sha256": "bad59767a3cb5228647998f2e31c1f5471c12f849676c4d71cae104e06e82170"
+    },
+    {
+      "path": "独立神託/出力-gemini-B.jsonl",
+      "source": "~/評価層/独立神託/出力-gemini-B.jsonl",
+      "source_sha256": "7b6a48240e5062f2059637554b7878463ad7509595e3d3c36aa83ea33956ad09",
+      "published_sha256": "7b6a48240e5062f2059637554b7878463ad7509595e3d3c36aa83ea33956ad09"
+    },
+    {
+      "path": "独立神託/出力-実走2.txt",
+      "source": "~/評価層/独立神託/出力-実走2.txt",
+      "source_sha256": "c0e73b379d98a5c66a3081a5480a583f4ff066eaad93aba93e328b5df97d4887",
+      "published_sha256": "3bdf24245b17ff020305ce6aa151a28a8d55dcec350aaa34ccbc3c8b3f1a85a6"
+    },
+    {
+      "path": "独立神託/出力-gemma4-実走本物.jsonl",
+      "source": "~/評価層/独立神託/出力-gemma4-実走本物.jsonl",
+      "source_sha256": "82e053b1611cb2a0c1e90e18290a5f9bba7f80330a9d34f9f905376fb468ae0a",
+      "published_sha256": "82e053b1611cb2a0c1e90e18290a5f9bba7f80330a9d34f9f905376fb468ae0a"
+    },
+    {
+      "path": "独立神託/束-4.txt",
+      "source": "~/評価層/独立神託/束-4.txt",
+      "source_sha256": "6693dfc721d9b68d790d04f0b0b760dcc471f50e81d1e96d36c288ce02c073c4",
+      "published_sha256": "6693dfc721d9b68d790d04f0b0b760dcc471f50e81d1e96d36c288ce02c073c4"
+    },
+    {
+      "path": "独立神託/全部-b0e189d.jsonl",
+      "source": "~/評価層/独立神託/全部-b0e189d.jsonl",
+      "source_sha256": "ce4a225b23c0b021a8caefb409468a5180288acfb2606bec2eda88fe8765e05a",
+      "published_sha256": "ce4a225b23c0b021a8caefb409468a5180288acfb2606bec2eda88fe8765e05a"
+    },
+    {
+      "path": "独立神託/集計.py",
+      "source": "~/評価層/独立神託/集計.py",
+      "source_sha256": "3633b546ee1fa12276945d9ce706332376172285e2d534942f727f6a8435a58f",
+      "published_sha256": "3633b546ee1fa12276945d9ce706332376172285e2d534942f727f6a8435a58f"
+    },
+    {
+      "path": "独立神託/実走-20260926-1159.jsonl",
+      "source": "~/評価層/独立神託/実走-20260926-1159.jsonl",
+      "source_sha256": "b19d41dc1547b785b38f5688294f988e1cacab60d6809077e527f8738a177c98",
+      "published_sha256": "b19d41dc1547b785b38f5688294f988e1cacab60d6809077e527f8738a177c98"
+    },
+    {
+      "path": "独立神託/促しを当てる.mjs",
+      "source": "~/評価層/独立神託/促しを当てる.mjs",
+      "source_sha256": "8b64bc578d6446e6e2dfb44faa6034bf854ffa868b79cdf5e736f21ee6e0b6e8",
+      "published_sha256": "8b64bc578d6446e6e2dfb44faa6034bf854ffa868b79cdf5e736f21ee6e0b6e8"
+    },
+    {
+      "path": "独立神託/束-実走本物.txt",
+      "source": "~/評価層/独立神託/束-実走本物.txt",
+      "source_sha256": "fc8d5eb99121aabc8d89ca428304bc42a935dedcfc38dbd55f9797174626e952",
+      "published_sha256": "fc8d5eb99121aabc8d89ca428304bc42a935dedcfc38dbd55f9797174626e952"
+    },
+    {
+      "path": "独立神託/全部-270ecf0.jsonl",
+      "source": "~/評価層/独立神託/全部-270ecf0.jsonl",
+      "source_sha256": "26c4c10b0a17235d1e949126bcb8ca8dd9bd65b86da85f17fcd0ddaa8aa2d16e",
+      "published_sha256": "26c4c10b0a17235d1e949126bcb8ca8dd9bd65b86da85f17fcd0ddaa8aa2d16e"
+    },
+    {
+      "path": "独立神託/読み手2.py",
+      "source": "~/評価層/独立神託/読み手2.py",
+      "source_sha256": "130a12b751563f81901584426d44e865fb4ea9c920b5a4a86afe910586cb71ec",
+      "published_sha256": "7ff89f7ebc9d5cc6493aeedba8efde8ed90eab251c699a8454e3614d753dcda2"
+    },
+    {
+      "path": "独立神託/頼み.txt",
+      "source": "~/評価層/独立神託/頼み.txt",
+      "source_sha256": "4c814bfe5bbfd46c45070511cb57c3c269dae3168da7cf392ad2a2f699246ec3",
+      "published_sha256": "4c814bfe5bbfd46c45070511cb57c3c269dae3168da7cf392ad2a2f699246ec3"
+    },
+    {
+      "path": "独立神託/p.txt",
+      "source": "~/評価層/独立神託/p.txt",
+      "source_sha256": "b5a54bc8128c09b76f5f3877ab05266203b6173de31e28fa471c5cc7ebdcc568",
+      "published_sha256": "b5a54bc8128c09b76f5f3877ab05266203b6173de31e28fa471c5cc7ebdcc568"
+    },
+    {
+      "path": "独立神託/再生-fd74699.err",
+      "source": "~/評価層/独立神託/再生-fd74699.err",
+      "source_sha256": "d5b1fd29a626c80fedfaca620217632333f49d8b9298016b9633bf8cdd497187",
+      "published_sha256": "d5b1fd29a626c80fedfaca620217632333f49d8b9298016b9633bf8cdd497187"
+    },
+    {
+      "path": "独立神託/対応-held-v2.json",
+      "source": "~/評価層/独立神託/対応-held-v2.json",
+      "source_sha256": "9d61d7845778b5f23b0704c6e676e7f863335d7fc2ad44d943ac5fb230282cb5",
+      "published_sha256": "9d61d7845778b5f23b0704c6e676e7f863335d7fc2ad44d943ac5fb230282cb5"
+    },
+    {
+      "path": "独立神託/対応.json",
+      "source": "~/評価層/独立神託/対応.json",
+      "source_sha256": "d7771891dfa105bea19d06f56e464ba7c69fa62c20b62e9db0d158b7963e8d11",
+      "published_sha256": "d7771891dfa105bea19d06f56e464ba7c69fa62c20b62e9db0d158b7963e8d11"
+    },
+    {
+      "path": "独立神託/束-実走2.txt",
+      "source": "~/評価層/独立神託/束-実走2.txt",
+      "source_sha256": "2bf70a3e1a5d36949adf48cccaef91ec201ebfe3adb99f070935d8be1f8842be",
+      "published_sha256": "2bf70a3e1a5d36949adf48cccaef91ec201ebfe3adb99f070935d8be1f8842be"
+    },
+    {
+      "path": "独立神託/読み手2-実走.log",
+      "source": "~/評価層/独立神託/読み手2-実走.log",
+      "source_sha256": "b7ceddadc03f4161b7573fc448beeb985215b1a0efbda86ca4df6446bf4889e4",
+      "published_sha256": "b7ceddadc03f4161b7573fc448beeb985215b1a0efbda86ca4df6446bf4889e4"
+    },
+    {
+      "path": "独立神託/全部-563736b.jsonl",
+      "source": "~/評価層/独立神託/全部-563736b.jsonl",
+      "source_sha256": "cff05f5d7e33bf8e4d29f5e53c4279071457968bfefa70bb7307438a70f30f68",
+      "published_sha256": "cff05f5d7e33bf8e4d29f5e53c4279071457968bfefa70bb7307438a70f30f68"
+    },
+    {
+      "path": "独立神託/束-実走3.txt",
+      "source": "~/評価層/独立神託/束-実走3.txt",
+      "source_sha256": "c60a48565b738cb275d247a55343b51af72cb8e7f3b711e947cfa1bdab664fbe",
+      "published_sha256": "c60a48565b738cb275d247a55343b51af72cb8e7f3b711e947cfa1bdab664fbe"
+    },
+    {
+      "path": "独立神託/出力-gemini-A.jsonl",
+      "source": "~/評価層/独立神託/出力-gemini-A.jsonl",
+      "source_sha256": "443b8d26de3671c32ad9c99c2eb3a3a31ecc4cdfd412a876691a17a7fffc9df4",
+      "published_sha256": "443b8d26de3671c32ad9c99c2eb3a3a31ecc4cdfd412a876691a17a7fffc9df4"
+    },
+    {
+      "path": "独立神託/p-4.txt",
+      "source": "~/評価層/独立神託/p-4.txt",
+      "source_sha256": "e82d55addb26dda4f3322a390059c58890cde1a2dd6c0ba51116fdd8f85563ee",
+      "published_sha256": "e82d55addb26dda4f3322a390059c58890cde1a2dd6c0ba51116fdd8f85563ee"
+    },
+    {
+      "path": "独立神託/世界-heldout-最新.jsonl",
+      "source": "~/評価層/独立神託/世界-heldout-最新.jsonl",
+      "source_sha256": "a8673795565d17cd6162dff5e085c6dc7dccab95804a33cd05c26b45ae69561d",
+      "published_sha256": "a8673795565d17cd6162dff5e085c6dc7dccab95804a33cd05c26b45ae69561d"
+    },
+    {
+      "path": "独立神託/束-実走1.txt",
+      "source": "~/評価層/独立神託/束-実走1.txt",
+      "source_sha256": "ab60ca758a5121756fdd309c9d63caaeac884e5f33b307d7e478717f17d1eff4",
+      "published_sha256": "ab60ca758a5121756fdd309c9d63caaeac884e5f33b307d7e478717f17d1eff4"
+    },
+    {
+      "path": "独立神託/世界-AI元.jsonl",
+      "source": "~/評価層/独立神託/世界-AI元.jsonl",
+      "source_sha256": "a34c6b21e70ebeaba542b008d5cce4f023c693f35b7dd5f0d870c0745a54e012",
+      "published_sha256": "a34c6b21e70ebeaba542b008d5cce4f023c693f35b7dd5f0d870c0745a54e012"
+    },
+    {
+      "path": "独立神託/出力-AI.txt",
+      "source": "~/評価層/独立神託/出力-AI.txt",
+      "source_sha256": "063a50d32fb4205a78167da8f77f30b26768b3856645d3bba05b67098ff390e3",
+      "published_sha256": "73dc2dd649fb039f22d5897c9830ff2ecbf620a328456b951e5a0be53a780202"
+    },
+    {
+      "path": "独立神託/検知-H1-直す前.jsonl",
+      "source": "~/評価層/独立神託/検知-H1-直す前.jsonl",
+      "source_sha256": "ad2811f5ef49425cc4f7a4fa3d602764f3616cb0f2c31190a175a7406a9a4457",
+      "published_sha256": "ad2811f5ef49425cc4f7a4fa3d602764f3616cb0f2c31190a175a7406a9a4457"
+    },
+    {
+      "path": "独立神託/読み手2を続ける.sh",
+      "source": "~/評価層/独立神託/読み手2を続ける.sh",
+      "source_sha256": "2fcd65ccd990943565c0e9e3cfacf19829e60f65090d8dc4361faf0b2a4f0e87",
+      "published_sha256": "2fcd65ccd990943565c0e9e3cfacf19829e60f65090d8dc4361faf0b2a4f0e87"
+    },
+    {
+      "path": "独立神託/p-1.txt",
+      "source": "~/評価層/独立神託/p-1.txt",
+      "source_sha256": "8c02e11b61f7bbaf76fd05ed7957576472bc1c480b901efb9e7abbb97a0576a0",
+      "published_sha256": "8c02e11b61f7bbaf76fd05ed7957576472bc1c480b901efb9e7abbb97a0576a0"
+    },
+    {
+      "path": "独立神託/判定基準.md",
+      "source": "~/評価層/独立神託/判定基準.md",
+      "source_sha256": "03193332ddaa04b2712532d90e4a1100a0d47055189b4bff6ad89406ab91ab16",
+      "published_sha256": "03193332ddaa04b2712532d90e4a1100a0d47055189b4bff6ad89406ab91ab16"
+    },
+    {
+      "path": "独立神託/p-AI.txt",
+      "source": "~/評価層/独立神託/p-AI.txt",
+      "source_sha256": "b49abcc595070e4f59b7013a0a29aa45396dc7aff16b43b408be75204a881e43",
+      "published_sha256": "b49abcc595070e4f59b7013a0a29aa45396dc7aff16b43b408be75204a881e43"
+    },
+    {
+      "path": "独立神託/出力-gemma4-実走.jsonl",
+      "source": "~/評価層/独立神託/出力-gemma4-実走.jsonl",
+      "source_sha256": "15b7edc1348c8bceb09d29168d1aa1c7124f3f1aa5ecb1b71a2308d28f36bd76",
+      "published_sha256": "15b7edc1348c8bceb09d29168d1aa1c7124f3f1aa5ecb1b71a2308d28f36bd76"
+    },
+    {
+      "path": "独立神託/再生-fd74699.jsonl",
+      "source": "~/評価層/独立神託/再生-fd74699.jsonl",
+      "source_sha256": "ada0f724d29f684023253e2a4794c2637667adaa8f14490d37b3f3a5917b86cd",
+      "published_sha256": "ada0f724d29f684023253e2a4794c2637667adaa8f14490d37b3f3a5917b86cd"
+    },
+    {
+      "path": "独立神託/対応-実走.json",
+      "source": "~/評価層/独立神託/対応-実走.json",
+      "source_sha256": "95cd4ddc11f620cd6b1ce9dd32d951ccd2038d03bfc4e759aacc451e0461c5d3",
+      "published_sha256": "95cd4ddc11f620cd6b1ce9dd32d951ccd2038d03bfc4e759aacc451e0461c5d3"
+    },
+    {
+      "path": "独立神託/p-2.txt",
+      "source": "~/評価層/独立神託/p-2.txt",
+      "source_sha256": "b5a54bc8128c09b76f5f3877ab05266203b6173de31e28fa471c5cc7ebdcc568",
+      "published_sha256": "b5a54bc8128c09b76f5f3877ab05266203b6173de31e28fa471c5cc7ebdcc568"
+    },
+    {
+      "path": "独立神託/束-再読.txt",
+      "source": "~/評価層/独立神託/束-再読.txt",
+      "source_sha256": "333ff70fab8433284705ddf0b8560ee1775397d7e1ad871ac0f7cd28907d9488",
+      "published_sha256": "333ff70fab8433284705ddf0b8560ee1775397d7e1ad871ac0f7cd28907d9488"
+    },
+    {
+      "path": "独立神託/写す.py",
+      "source": "~/評価層/独立神託/写す.py",
+      "source_sha256": "ee10bfac62e6be328d96323aed0c5a3fc16ed7c025d10ac9e15e7449058b5917",
+      "published_sha256": "ee10bfac62e6be328d96323aed0c5a3fc16ed7c025d10ac9e15e7449058b5917"
+    },
+    {
+      "path": "独立神託/範囲つき.py",
+      "source": "~/評価層/独立神託/範囲つき.py",
+      "source_sha256": "d40a319f892c53b8d2f4755f04badfe616e827f043221d4b0c0a08949194922f",
+      "published_sha256": "d40a319f892c53b8d2f4755f04badfe616e827f043221d4b0c0a08949194922f"
+    },
+    {
+      "path": "独立神託/全部-cf36622.jsonl",
+      "source": "~/評価層/独立神託/全部-cf36622.jsonl",
+      "source_sha256": "ce4a225b23c0b021a8caefb409468a5180288acfb2606bec2eda88fe8765e05a",
+      "published_sha256": "ce4a225b23c0b021a8caefb409468a5180288acfb2606bec2eda88fe8765e05a"
+    },
+    {
+      "path": "独立神託/実走集計.py",
+      "source": "~/評価層/独立神託/実走集計.py",
+      "source_sha256": "77c4dc647c94f56d064f2f6bbd84e6f121a9e9cdecd933057764d25c78792b63",
+      "published_sha256": "77c4dc647c94f56d064f2f6bbd84e6f121a9e9cdecd933057764d25c78792b63"
+    },
+    {
+      "path": "独立神託/世界-AI.jsonl",
+      "source": "~/評価層/独立神託/世界-AI.jsonl",
+      "source_sha256": "72b8b2a3a4cae9c1cb1dfbe664c9bd1e5bb5bd24542a7d204a1953125f5a6ae2",
+      "published_sha256": "72b8b2a3a4cae9c1cb1dfbe664c9bd1e5bb5bd24542a7d204a1953125f5a6ae2"
+    },
+    {
+      "path": "独立神託/出力-型.txt",
+      "source": "~/評価層/独立神託/出力-型.txt",
+      "source_sha256": "9354d56d1edbc184d94bb43995e1f40c910f04ccc7c7e6e739abfdbfd7fb9e46",
+      "published_sha256": "a2587ed36a97ccd295b0f11068522083d1fb8408205d8fbafa38ca59ec7d59b7"
+    },
+    {
+      "path": "独立神託/p-3.txt",
+      "source": "~/評価層/独立神託/p-3.txt",
+      "source_sha256": "670c5c791524140a5c8699c336d46b580609737ae5e4d039820dfacd3d2795ef",
+      "published_sha256": "670c5c791524140a5c8699c336d46b580609737ae5e4d039820dfacd3d2795ef"
+    },
+    {
+      "path": "独立神託/実走-結果.md",
+      "source": "~/評価層/独立神託/実走-結果.md",
+      "source_sha256": "6d38352820c3237f6ffd9958cc3df47782eb7e6988962f2f86e2705590096eb3",
+      "published_sha256": "6d38352820c3237f6ffd9958cc3df47782eb7e6988962f2f86e2705590096eb3"
+    },
+    {
+      "path": "動作神託/結果.md",
+      "source": "~/評価層/動作神託/結果.md",
+      "source_sha256": "6cf421f96bde602892823d722ee73567dc3bd306cb804618be7bac94e644320d",
+      "published_sha256": "6cf421f96bde602892823d722ee73567dc3bd306cb804618be7bac94e644320d"
+    },
+    {
+      "path": "動作神託/判定-生成14.jsonl",
+      "source": "~/評価層/動作神託/判定-生成14.jsonl",
+      "source_sha256": "2ec5e4fac67bbdd914ceddacfd47a748490062b1de5c424cfae2eb15fcdf467c",
+      "published_sha256": "2ec5e4fac67bbdd914ceddacfd47a748490062b1de5c424cfae2eb15fcdf467c"
+    },
+    {
+      "path": "動作神託/判定-動3.jsonl",
+      "source": "~/評価層/動作神託/判定-動3.jsonl",
+      "source_sha256": "fc9bd14b8c79ef1f3508d124593f808ba79712c0785003bd98af9511d87e15a2",
+      "published_sha256": "fc9bd14b8c79ef1f3508d124593f808ba79712c0785003bd98af9511d87e15a2"
+    },
+    {
+      "path": "動作神託/生成-型12.jsonl",
+      "source": "~/評価層/動作神託/生成-型12.jsonl",
+      "source_sha256": "1eee576bbe762fd5c112dff1177057d54a1d3c91341d760c1cd0dafa5ecfc05b",
+      "published_sha256": "1eee576bbe762fd5c112dff1177057d54a1d3c91341d760c1cd0dafa5ecfc05b"
+    },
+    {
+      "path": "動作神託/判定-動1.jsonl",
+      "source": "~/評価層/動作神託/判定-動1.jsonl",
+      "source_sha256": "0a760188d2900df782a9422bda2de4d74663de69ebc31b3ef27274bc715997bc",
+      "published_sha256": "0a760188d2900df782a9422bda2de4d74663de69ebc31b3ef27274bc715997bc"
+    },
+    {
+      "path": "動作神託/生成-型12-J1.jsonl",
+      "source": "~/評価層/動作神託/生成-型12-J1.jsonl",
+      "source_sha256": "8656697aab69dd54c9f55f81fa7928fd1bad1faf7a132a6d2d913cf790808f94",
+      "published_sha256": "8656697aab69dd54c9f55f81fa7928fd1bad1faf7a132a6d2d913cf790808f94"
+    },
+    {
+      "path": "動作神託/生成-型14.jsonl",
+      "source": "~/評価層/動作神託/生成-型14.jsonl",
+      "source_sha256": "d4953ae24dc06f7e5a7961e636865bf9c28c1d8b9edf2f956066b6f1d8f10c1d",
+      "published_sha256": "d4953ae24dc06f7e5a7961e636865bf9c28c1d8b9edf2f956066b6f1d8f10c1d"
+    },
+    {
+      "path": "動作神託/判定-生成12.jsonl",
+      "source": "~/評価層/動作神託/判定-生成12.jsonl",
+      "source_sha256": "b52f51f762619c12e6d3cab854de16e0ba8d05057d5f204a76f22992ccd30a5c",
+      "published_sha256": "b52f51f762619c12e6d3cab854de16e0ba8d05057d5f204a76f22992ccd30a5c"
+    },
+    {
+      "path": "動作神託/判定-生成14-probe修正.jsonl",
+      "source": "~/評価層/動作神託/判定-生成14-probe修正.jsonl",
+      "source_sha256": "8125c7647426513c1dd39c55b500bf2a99c5acc4c4adb16974666ea61112b8d8",
+      "published_sha256": "8125c7647426513c1dd39c55b500bf2a99c5acc4c4adb16974666ea61112b8d8"
+    },
+    {
+      "path": "動作神託/判定-動2.jsonl",
+      "source": "~/評価層/動作神託/判定-動2.jsonl",
+      "source_sha256": "9ae57a3783db16016712d6a4db90cd9b69b2aac3c53f16c94d4a04f43f9ca50d",
+      "published_sha256": "9ae57a3783db16016712d6a4db90cd9b69b2aac3c53f16c94d4a04f43f9ca50d"
+    },
+    {
+      "path": "動作神託/生成-型13.jsonl",
+      "source": "~/評価層/動作神託/生成-型13.jsonl",
+      "source_sha256": "5384aec882d83923fe6f9838dfd50c274f316a8012a82bf7bf33b09944553480",
+      "published_sha256": "5384aec882d83923fe6f9838dfd50c274f316a8012a82bf7bf33b09944553480"
+    },
+    {
+      "path": "動作神託/結果-生成12.md",
+      "source": "~/評価層/動作神託/結果-生成12.md",
+      "source_sha256": "1dc370208ad92260539e405978656b1aceb0ae3a3de1bac673ef5a88220440fe",
+      "published_sha256": "1dc370208ad92260539e405978656b1aceb0ae3a3de1bac673ef5a88220440fe"
+    },
+    {
+      "path": "動作神託/判定-生成13.jsonl",
+      "source": "~/評価層/動作神託/判定-生成13.jsonl",
+      "source_sha256": "1b8758866063fc14c0885d82a133aba3e8124a438bea631c5752d560ca12e227",
+      "published_sha256": "1b8758866063fc14c0885d82a133aba3e8124a438bea631c5752d560ca12e227"
+    },
+    {
+      "path": "動作神託/判定-動2.err",
+      "source": "~/評価層/動作神託/判定-動2.err",
+      "source_sha256": "9b88bdadb362d3cc54a1c0c3b4b896bc895a92ebd935fa60892d18295fa4583c",
+      "published_sha256": "9b88bdadb362d3cc54a1c0c3b4b896bc895a92ebd935fa60892d18295fa4583c"
+    },
+    {
+      "path": "動作神託/判定-動3.err",
+      "source": "~/評価層/動作神託/判定-動3.err",
+      "source_sha256": "2f8bbc3f209e32d37179a591d85d4fd0c83000c5035f89e7a958c490e8f9b237",
+      "published_sha256": "2f8bbc3f209e32d37179a591d85d4fd0c83000c5035f89e7a958c490e8f9b237"
+    },
+    {
+      "path": "動作神託/集計-生成14.txt",
+      "source": "~/評価層/動作神託/集計-生成14.txt",
+      "source_sha256": "8131880fbf07add4a443fdff6f68ec2c2d943ee4b5e90cab0fb260fb20735f14",
+      "published_sha256": "8131880fbf07add4a443fdff6f68ec2c2d943ee4b5e90cab0fb260fb20735f14"
+    },
+    {
+      "path": "動作神託/判定-動1.err",
+      "source": "~/評価層/動作神託/判定-動1.err",
+      "source_sha256": "b6fe93a3ca8ec0edb0d81c734855f73ce784a010dff157219b9d7b9064f2934c",
+      "published_sha256": "b6fe93a3ca8ec0edb0d81c734855f73ce784a010dff157219b9d7b9064f2934c"
+    },
+    {
+      "path": "動作神託/集計-動作.mjs",
+      "source": "~/評価層/動作神託/集計-動作.mjs",
+      "source_sha256": "f100bd79cc4672729fee10865de49977266a3d696e91434d732f36a1b3f8c4d8",
+      "published_sha256": "f100bd79cc4672729fee10865de49977266a3d696e91434d732f36a1b3f8c4d8"
+    },
+    {
+      "path": "動作神託/結果-動2.md",
+      "source": "~/評価層/動作神託/結果-動2.md",
+      "source_sha256": "6ff68c30c3b512209dac25efbb59d593aae414167af41125833ed7a3851dc6f0",
+      "published_sha256": "6ff68c30c3b512209dac25efbb59d593aae414167af41125833ed7a3851dc6f0"
+    },
+    {
+      "path": "動作神託/動2.jsonl",
+      "source": "~/評価層/動作神託/動2.jsonl",
+      "source_sha256": "a04e247df86090b6ef09e544268a9a893b44c5071026907f41aba2056acd1355",
+      "published_sha256": "a04e247df86090b6ef09e544268a9a893b44c5071026907f41aba2056acd1355"
+    },
+    {
+      "path": "動作神託/結果-動3.md",
+      "source": "~/評価層/動作神託/結果-動3.md",
+      "source_sha256": "531bd58e13813ba7d14f188ba5e8492d5d2141d39d415b18d30501f891fba393",
+      "published_sha256": "531bd58e13813ba7d14f188ba5e8492d5d2141d39d415b18d30501f891fba393"
+    },
+    {
+      "path": "動作神託/検証-型13_14.py",
+      "source": "~/評価層/動作神託/検証-型13_14.py",
+      "source_sha256": "23363c4b4db058935b51ba80ade471676e0deb9cde62ce73711f7a1ce7388d3f",
+      "published_sha256": "23363c4b4db058935b51ba80ade471676e0deb9cde62ce73711f7a1ce7388d3f"
+    },
+    {
+      "path": "動作神託/集計-生成12.txt",
+      "source": "~/評価層/動作神託/集計-生成12.txt",
+      "source_sha256": "c7bddf87b83e6241bf5c2fed91f36cdad21127ddf2c309e2dcf73bc6c8f795e0",
+      "published_sha256": "c7bddf87b83e6241bf5c2fed91f36cdad21127ddf2c309e2dcf73bc6c8f795e0"
+    },
+    {
+      "path": "動作神託/集計-生成14-probe修正.txt",
+      "source": "~/評価層/動作神託/集計-生成14-probe修正.txt",
+      "source_sha256": "7c936b4caee8705826a19dbb7f9691c4b9b2f68538eb5324ea8fc8a81a13fdea",
+      "published_sha256": "7c936b4caee8705826a19dbb7f9691c4b9b2f68538eb5324ea8fc8a81a13fdea"
+    },
+    {
+      "path": "動作神託/生成-型14-probe修正.jsonl",
+      "source": "~/評価層/動作神託/生成-型14-probe修正.jsonl",
+      "source_sha256": "c75d869e295bcc95bff05525e34891b8617c9771f011f0142e25a8385fcacb94",
+      "published_sha256": "c75d869e295bcc95bff05525e34891b8617c9771f011f0142e25a8385fcacb94"
+    },
+    {
+      "path": "動作神託/組み込み設計.md",
+      "source": "~/評価層/動作神託/組み込み設計.md",
+      "source_sha256": "039e0d130c9e36e22cb76c4efd977bd1ace0279dd2ab431c5212c06e6613e754",
+      "published_sha256": "039e0d130c9e36e22cb76c4efd977bd1ace0279dd2ab431c5212c06e6613e754"
+    },
+    {
+      "path": "動作神託/集計-生成13.txt",
+      "source": "~/評価層/動作神託/集計-生成13.txt",
+      "source_sha256": "92c0a6662932d7f576a14f0dcb64f906ec0f9fb5c1189fadfc6ffb2416d7c97c",
+      "published_sha256": "92c0a6662932d7f576a14f0dcb64f906ec0f9fb5c1189fadfc6ffb2416d7c97c"
+    },
+    {
+      "path": "動作神託/結果-生成13_14.md",
+      "source": "~/評価層/動作神託/結果-生成13_14.md",
+      "source_sha256": "c5e6c88ba1a2db7ac0fa97efea6db066b8dece166f26131680603e1f3250df16",
+      "published_sha256": "c5e6c88ba1a2db7ac0fa97efea6db066b8dece166f26131680603e1f3250df16"
+    },
+    {
+      "path": "動作神託/判定-生成14-probe修正.err",
+      "source": "~/評価層/動作神託/判定-生成14-probe修正.err",
+      "source_sha256": "c4810df83e14ab10502b5fcb1fc8223358be980629b2406425b52a09b1a95daa",
+      "published_sha256": "c4810df83e14ab10502b5fcb1fc8223358be980629b2406425b52a09b1a95daa"
+    },
+    {
+      "path": "動作神託/判定-生成12.err",
+      "source": "~/評価層/動作神託/判定-生成12.err",
+      "source_sha256": "b2630f6b2ed2b6d8ff1e743da5c23f2a468395d707d3b58e461972f2b29d4ed6",
+      "published_sha256": "b2630f6b2ed2b6d8ff1e743da5c23f2a468395d707d3b58e461972f2b29d4ed6"
+    },
+    {
+      "path": "動作神託/判定-生成13.err",
+      "source": "~/評価層/動作神託/判定-生成13.err",
+      "source_sha256": "f9e7194034023c160c5f051603b3f97bc2564fd8b17f3febcfb5e286d3e57dbf",
+      "published_sha256": "f9e7194034023c160c5f051603b3f97bc2564fd8b17f3febcfb5e286d3e57dbf"
+    },
+    {
+      "path": "動作神託/判定基準.md",
+      "source": "~/評価層/動作神託/判定基準.md",
+      "source_sha256": "7395f120828ffbbafdbbf94198864e15a6c0da11390f5f257514da3c6a16c913",
+      "published_sha256": "7395f120828ffbbafdbbf94198864e15a6c0da11390f5f257514da3c6a16c913"
+    },
+    {
+      "path": "動作神託/集計-動3.txt",
+      "source": "~/評価層/動作神託/集計-動3.txt",
+      "source_sha256": "8d5d93e0ad7a643f4a2fde7fd53dd0fb7f9f40e109bd93570669c4200c742291",
+      "published_sha256": "8d5d93e0ad7a643f4a2fde7fd53dd0fb7f9f40e109bd93570669c4200c742291"
+    },
+    {
+      "path": "動作神託/集計-動2.txt",
+      "source": "~/評価層/動作神託/集計-動2.txt",
+      "source_sha256": "96cfb17e0ce3d5d347423f41080792d1ef6acbe03721bbcdae15d5f7efa3ca19",
+      "published_sha256": "96cfb17e0ce3d5d347423f41080792d1ef6acbe03721bbcdae15d5f7efa3ca19"
+    },
+    {
+      "path": "動作神託/動1.jsonl",
+      "source": "~/評価層/動作神託/動1.jsonl",
+      "source_sha256": "4340438ab646a6b00e9dd3ff1d8460171025afccc998d733417e6822a44ddf8d",
+      "published_sha256": "4340438ab646a6b00e9dd3ff1d8460171025afccc998d733417e6822a44ddf8d"
+    },
+    {
+      "path": "動作神託/動3.jsonl",
+      "source": "~/評価層/動作神託/動3.jsonl",
+      "source_sha256": "2c3dc909e6f5731cac119547862cb6ea9bf2422a592cf43a07f33baa51affdff",
+      "published_sha256": "2c3dc909e6f5731cac119547862cb6ea9bf2422a592cf43a07f33baa51affdff"
+    },
+    {
+      "path": "動作神託/判定-生成14.err",
+      "source": "~/評価層/動作神託/判定-生成14.err",
+      "source_sha256": "c4810df83e14ab10502b5fcb1fc8223358be980629b2406425b52a09b1a95daa",
+      "published_sha256": "c4810df83e14ab10502b5fcb1fc8223358be980629b2406425b52a09b1a95daa"
+    },
+    {
+      "path": "動作神託/集計-動1.txt",
+      "source": "~/評価層/動作神託/集計-動1.txt",
+      "source_sha256": "9315666125b5a1db198e869401cf7ea50f6cacf8fab6b7605381438522d7eea9",
+      "published_sha256": "9315666125b5a1db198e869401cf7ea50f6cacf8fab6b7605381438522d7eea9"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる-走り2.log",
+      "source": "~/Antigravity作業/見張りを全部当てる-走り2.log",
+      "source_sha256": "22091dabe39a023efef06201b9927320782d8b09d4c7579acff86a6a80942a50",
+      "published_sha256": "1a707d1f3f784079e64f020329b42bf2a864f5eb0a2782096728a301f7805941"
+    },
+    {
+      "path": "外部レビュー/Antigravity/壁の中でgemini.py",
+      "source": "~/Antigravity作業/壁の中でgemini.py",
+      "source_sha256": "3a39359552cac7309638f5ac52dd61602333828f8cca71af255f1a9939e4b213",
+      "published_sha256": "3a39359552cac7309638f5ac52dd61602333828f8cca71af255f1a9939e4b213"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる-走り.log",
+      "source": "~/Antigravity作業/見張りを全部当てる-走り.log",
+      "source_sha256": "2cad2e6747b1917adc30e47984e9615a5cbe0ca37e0cdb815e77d58d73599d2c",
+      "published_sha256": "2e14f9aa7c64ec7ba225eef80a4798eecf9d8b534e3e3a7e601542cdd5b1794c"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/出力.txt",
+      "source": "~/Antigravity作業/記録-0927-2135/出力.txt",
+      "source_sha256": "8f31049174be200391a7dc21dc64bac63d0911b8fc8cd63bb320830110e226a8",
+      "published_sha256": "8f31049174be200391a7dc21dc64bac63d0911b8fc8cd63bb320830110e226a8"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2134/出力.txt",
+      "source": "~/Antigravity作業/記録-0927-2134/出力.txt",
+      "source_sha256": "82ac0eb33d7860d4e0cd04449f1ca2b9bb3bcfa34832151806bd2ba6a285e995",
+      "published_sha256": "82ac0eb33d7860d4e0cd04449f1ca2b9bb3bcfa34832151806bd2ba6a285e995"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-A.json",
+      "source": "~/Antigravity作業/独立の読み手/生-A.json",
+      "source_sha256": "e6339e1d8e2339bd318bab348b314a7c726760e51cc62bd8111ff4ba1f60793a",
+      "published_sha256": "e6339e1d8e2339bd318bab348b314a7c726760e51cc62bd8111ff4ba1f60793a"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-B2.json",
+      "source": "~/Antigravity作業/独立の読み手/生-B2.json",
+      "source_sha256": "12ad3572c42a46f18d9635dc250eba955da17c1001f4f9cbf18111ab8ef69c9e",
+      "published_sha256": "12ad3572c42a46f18d9635dc250eba955da17c1001f4f9cbf18111ab8ef69c9e"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/束A.txt",
+      "source": "~/Antigravity作業/独立の読み手/束A.txt",
+      "source_sha256": "f3dd5afa479aee8e6a4feb5f3301845e889a09e739ad158d0f0c0544d8b32b70",
+      "published_sha256": "f3dd5afa479aee8e6a4feb5f3301845e889a09e739ad158d0f0c0544d8b32b70"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-B3.json",
+      "source": "~/Antigravity作業/独立の読み手/生-B3.json",
+      "source_sha256": "56796c7a1e69424a9e3ce6c13658a90e53a6c091dae9c0210b8e88df729f07ae",
+      "published_sha256": "56796c7a1e69424a9e3ce6c13658a90e53a6c091dae9c0210b8e88df729f07ae"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/束B.txt",
+      "source": "~/Antigravity作業/独立の読み手/束B.txt",
+      "source_sha256": "fc8d5eb99121aabc8d89ca428304bc42a935dedcfc38dbd55f9797174626e952",
+      "published_sha256": "fc8d5eb99121aabc8d89ca428304bc42a935dedcfc38dbd55f9797174626e952"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/束B1.txt",
+      "source": "~/Antigravity作業/独立の読み手/束B1.txt",
+      "source_sha256": "f7af6d7fff0ce1af51494cccb653b6f5f633dc2f4d241871eea7d3c6e3f41f8d",
+      "published_sha256": "f7af6d7fff0ce1af51494cccb653b6f5f633dc2f4d241871eea7d3c6e3f41f8d"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/束B2.txt",
+      "source": "~/Antigravity作業/独立の読み手/束B2.txt",
+      "source_sha256": "d8b31ab8dc704715789e608201232c26d96a8255a70cdd389cb827d151c94517",
+      "published_sha256": "d8b31ab8dc704715789e608201232c26d96a8255a70cdd389cb827d151c94517"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/頼み.txt",
+      "source": "~/Antigravity作業/独立の読み手/頼み.txt",
+      "source_sha256": "9fef373a251a65d3fa992d405417c35dff48c7eeee58e118db3aaefe46efd347",
+      "published_sha256": "9fef373a251a65d3fa992d405417c35dff48c7eeee58e118db3aaefe46efd347"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/TASK.md",
+      "source": "~/Antigravity作業/独立の読み手/TASK.md",
+      "source_sha256": "965b0282655a8f6886c840c4e3f29fb22b4df6cce1e972de68efe9df74c238be",
+      "published_sha256": "965b0282655a8f6886c840c4e3f29fb22b4df6cce1e972de68efe9df74c238be"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/束B3.txt",
+      "source": "~/Antigravity作業/独立の読み手/束B3.txt",
+      "source_sha256": "6ef5971c5baaff424915b2c92072d23ff4b8d996433d19b06960d9357d971abc",
+      "published_sha256": "6ef5971c5baaff424915b2c92072d23ff4b8d996433d19b06960d9357d971abc"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-B1.json",
+      "source": "~/Antigravity作業/独立の読み手/生-B1.json",
+      "source_sha256": "dc83d31ef2822b7731edd5f527afd9cf8179ad0051eb5e74c573108861b809f6",
+      "published_sha256": "dc83d31ef2822b7731edd5f527afd9cf8179ad0051eb5e74c573108861b809f6"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-A.err",
+      "source": "~/Antigravity作業/独立の読み手/生-A.err",
+      "source_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710",
+      "published_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-B2.err",
+      "source": "~/Antigravity作業/独立の読み手/生-B2.err",
+      "source_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710",
+      "published_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-B3.err",
+      "source": "~/Antigravity作業/独立の読み手/生-B3.err",
+      "source_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710",
+      "published_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710"
+    },
+    {
+      "path": "外部レビュー/Antigravity/独立の読み手/生-B1.err",
+      "source": "~/Antigravity作業/独立の読み手/生-B1.err",
+      "source_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710",
+      "published_sha256": "48474feb80bf9b7912e253f189f24782d2196bec8e1f4c175099f61dcbd4e710"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2136/出力.txt",
+      "source": "~/Antigravity作業/記録-0927-2136/出力.txt",
+      "source_sha256": "242ca9baa4c0ca271eca8b4e78c67fc5a9d16fbca4417014187680fbfe80e011",
+      "published_sha256": "242ca9baa4c0ca271eca8b4e78c67fc5a9d16fbca4417014187680fbfe80e011"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/渡した時のqwcのHEAD.txt",
+      "source": "~/Antigravity作業/見張りを全部当てる/渡した時のqwcのHEAD.txt",
+      "source_sha256": "dedac5cf08e3c146772b1bd7b914111c75dd389b46b0f4596b6eebbe1e2efa7a",
+      "published_sha256": "dedac5cf08e3c146772b1bd7b914111c75dd389b46b0f4596b6eebbe1e2efa7a"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/頼み.txt",
+      "source": "~/Antigravity作業/見張りを全部当てる/頼み.txt",
+      "source_sha256": "33fa528194666ecc1e403d545cccad7f18f524bdcd585fe189f922c920fd44fb",
+      "published_sha256": "33fa528194666ecc1e403d545cccad7f18f524bdcd585fe189f922c920fd44fb"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/TASK.md",
+      "source": "~/Antigravity作業/見張りを全部当てる/TASK.md",
+      "source_sha256": "11b497b7bd5f816f3e721bb401de2456dc69b2d9f9854eab13578f709985f109",
+      "published_sha256": "11b497b7bd5f816f3e721bb401de2456dc69b2d9f9854eab13578f709985f109"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/材料/促しを当てる_元.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/材料/促しを当てる_元.mjs",
+      "source_sha256": "8b64bc578d6446e6e2dfb44faa6034bf854ffa868b79cdf5e736f21ee6e0b6e8",
+      "published_sha256": "8b64bc578d6446e6e2dfb44faa6034bf854ffa868b79cdf5e736f21ee6e0b6e8"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/材料/実走の会話.jsonl",
+      "source": "~/Antigravity作業/見張りを全部当てる/材料/実走の会話.jsonl",
+      "source_sha256": "b19d41dc1547b785b38f5688294f988e1cacab60d6809077e527f8738a177c98",
+      "published_sha256": "b19d41dc1547b785b38f5688294f988e1cacab60d6809077e527f8738a177c98"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/embed.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/embed.mjs",
+      "source_sha256": "90d3faa530a255afced1b759e6c7cd8414b895226e14d7f741ce039a588aaf30",
+      "published_sha256": "90d3faa530a255afced1b759e6c7cd8414b895226e14d7f741ce039a588aaf30"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/commands.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/commands.mjs",
+      "source_sha256": "0cb0ad0055baa6cd57821a450835dbc9a5347cf122db4c1c81a1c6a84f10130f",
+      "published_sha256": "0cb0ad0055baa6cd57821a450835dbc9a5347cf122db4c1c81a1c6a84f10130f"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/mcp.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/mcp.mjs",
+      "source_sha256": "62609885cda768e7c2be7f8bbefe0655c8d08493311741cb492917dbaa7a8702",
+      "published_sha256": "62609885cda768e7c2be7f8bbefe0655c8d08493311741cb492917dbaa7a8702"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/web.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/web.mjs",
+      "source_sha256": "a255719a27d6c283db5428227c45c4b28bb98ead27d4d91eda63f7a07fc53195",
+      "published_sha256": "a255719a27d6c283db5428227c45c4b28bb98ead27d4d91eda63f7a07fc53195"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/ollama.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/ollama.mjs",
+      "source_sha256": "0a40a35cd58f08c9e2d5d8c5f6af63738746ce7bf37188638f9c49483f1ab185",
+      "published_sha256": "0a40a35cd58f08c9e2d5d8c5f6af63738746ce7bf37188638f9c49483f1ab185"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/ui.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/ui.mjs",
+      "source_sha256": "36d0227095dce30e485aec81c7c91e8d88ee7dacb8193828d9c64960247032e0",
+      "published_sha256": "36d0227095dce30e485aec81c7c91e8d88ee7dacb8193828d9c64960247032e0"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/paste.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/paste.mjs",
+      "source_sha256": "f5c009457b2eb0c7a57caab873d3fb86d172bd4349798aa3e939f64298fd3246",
+      "published_sha256": "f5c009457b2eb0c7a57caab873d3fb86d172bd4349798aa3e939f64298fd3246"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/browser.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/browser.mjs",
+      "source_sha256": "5db377a11d6db57d5f7d1a307b9156e8acf5945e0b79203d92d6a1c5d7745ab5",
+      "published_sha256": "5db377a11d6db57d5f7d1a307b9156e8acf5945e0b79203d92d6a1c5d7745ab5"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/skills.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/skills.mjs",
+      "source_sha256": "fd6ecb1953cef1966f57c6642d01e2e534daa8f48d7e3c71bae3f3555fd8b9f6",
+      "published_sha256": "fd6ecb1953cef1966f57c6642d01e2e534daa8f48d7e3c71bae3f3555fd8b9f6"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/effort.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/effort.mjs",
+      "source_sha256": "96bc4413371729fc3c5d9109bce6f3b7c007747dc37ed6f8a1190322dc536fcd",
+      "published_sha256": "96bc4413371729fc3c5d9109bce6f3b7c007747dc37ed6f8a1190322dc536fcd"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/complete.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/complete.mjs",
+      "source_sha256": "b52e66cba9f5f028277eb151ae0670a1e1ebb6613b1388ff4743627712c450e5",
+      "published_sha256": "b52e66cba9f5f028277eb151ae0670a1e1ebb6613b1388ff4743627712c450e5"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/rules.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/rules.mjs",
+      "source_sha256": "f9f68d1e7216fe82e259246216bb71668f326d78d18c0e04d54adb5724015446",
+      "published_sha256": "f9f68d1e7216fe82e259246216bb71668f326d78d18c0e04d54adb5724015446"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/harness.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/harness.mjs",
+      "source_sha256": "6382f22f6291aa189237696f2c93d12fc44ffdcccd66ddf153dab5dc1ec4c4ad",
+      "published_sha256": "6382f22f6291aa189237696f2c93d12fc44ffdcccd66ddf153dab5dc1ec4c4ad"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/paths.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/paths.mjs",
+      "source_sha256": "43cd7912f08e24eed7bf387af5c25b24e8478399041c3030b90155b8fd6d1b39",
+      "published_sha256": "43cd7912f08e24eed7bf387af5c25b24e8478399041c3030b90155b8fd6d1b39"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/smalltalk.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/smalltalk.mjs",
+      "source_sha256": "61d18885e5a64d96cee68fd58e9f2350ff0f6877ddd0507e13011e4017086831",
+      "published_sha256": "61d18885e5a64d96cee68fd58e9f2350ff0f6877ddd0507e13011e4017086831"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/facts.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/facts.mjs",
+      "source_sha256": "983750fd0b489d89e8564457ea2c4b4842f3918b95c7cb1b492bfc02bc2c0524",
+      "published_sha256": "983750fd0b489d89e8564457ea2c4b4842f3918b95c7cb1b492bfc02bc2c0524"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/mentions.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/mentions.mjs",
+      "source_sha256": "404d28de4a2643d27b5a903a34b3de0c608e0ade4a81a464cd8f23fc2806a68f",
+      "published_sha256": "404d28de4a2643d27b5a903a34b3de0c608e0ade4a81a464cd8f23fc2806a68f"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/ctxcost.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/ctxcost.mjs",
+      "source_sha256": "6a805d8362e53942c72ad4b4bee16c83d8ac7d4f81b11da1cde2b5c57f83250b",
+      "published_sha256": "6a805d8362e53942c72ad4b4bee16c83d8ac7d4f81b11da1cde2b5c57f83250b"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/agent.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/agent.mjs",
+      "source_sha256": "bf328e38e243b036c8acfe73624366c87d7bcfaa3eb59f7f718d9043aecec57b",
+      "published_sha256": "bf328e38e243b036c8acfe73624366c87d7bcfaa3eb59f7f718d9043aecec57b"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/prompt.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/prompt.mjs",
+      "source_sha256": "365d16c5ea737487023d140ecd0f1344764381cafd6110fa00c92eec9bfa5419",
+      "published_sha256": "365d16c5ea737487023d140ecd0f1344764381cafd6110fa00c92eec9bfa5419"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/session.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/session.mjs",
+      "source_sha256": "a7fa0b316d66b99425b4655b8bdfdca8e0c0792435cbf0da5788a761ba5c9766",
+      "published_sha256": "a7fa0b316d66b99425b4655b8bdfdca8e0c0792435cbf0da5788a761ba5c9766"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/permissions.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/permissions.mjs",
+      "source_sha256": "0602ef406a2ec897ee278f8cae2e16d735d3aab08f2b1fe6445291ef88f59f92",
+      "published_sha256": "0602ef406a2ec897ee278f8cae2e16d735d3aab08f2b1fe6445291ef88f59f92"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/lsp.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/lsp.mjs",
+      "source_sha256": "6c1503994642e9f2db6bd829f775d864cfa6b28e628e3f22654c10bb199d3583",
+      "published_sha256": "6c1503994642e9f2db6bd829f775d864cfa6b28e628e3f22654c10bb199d3583"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/subagent.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/subagent.mjs",
+      "source_sha256": "ba1dfb599e4d9d37b43c84147471741420d0099b2595fbb6d869861b6f816160",
+      "published_sha256": "ba1dfb599e4d9d37b43c84147471741420d0099b2595fbb6d869861b6f816160"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/edits.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/edits.mjs",
+      "source_sha256": "989c4cde896a4e3e37395295c60a1db959d6326509e5a33fe41198deb1191c6d",
+      "published_sha256": "989c4cde896a4e3e37395295c60a1db959d6326509e5a33fe41198deb1191c6d"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/config.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/config.mjs",
+      "source_sha256": "7411ac19ebced324fae4179607aabd2d413597e995fee5080eecc630638eba3e",
+      "published_sha256": "7411ac19ebced324fae4179607aabd2d413597e995fee5080eecc630638eba3e"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/tools.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/tools.mjs",
+      "source_sha256": "8394786d975ed446b83f3a6c4faa2162b84bc4dfbd48e3a2391d573b7adccc4d",
+      "published_sha256": "8394786d975ed446b83f3a6c4faa2162b84bc4dfbd48e3a2391d573b7adccc4d"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/270ecf0/src/test-auto.js",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/270ecf0/src/test-auto.js",
+      "source_sha256": "042cb7c95a4298536795b16820a760d0992d03d509e59d3ecd0cf1c581c15ebc",
+      "published_sha256": "042cb7c95a4298536795b16820a760d0992d03d509e59d3ecd0cf1c581c15ebc"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/embed.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/embed.mjs",
+      "source_sha256": "90d3faa530a255afced1b759e6c7cd8414b895226e14d7f741ce039a588aaf30",
+      "published_sha256": "90d3faa530a255afced1b759e6c7cd8414b895226e14d7f741ce039a588aaf30"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/commands.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/commands.mjs",
+      "source_sha256": "0cb0ad0055baa6cd57821a450835dbc9a5347cf122db4c1c81a1c6a84f10130f",
+      "published_sha256": "0cb0ad0055baa6cd57821a450835dbc9a5347cf122db4c1c81a1c6a84f10130f"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/mcp.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/mcp.mjs",
+      "source_sha256": "62609885cda768e7c2be7f8bbefe0655c8d08493311741cb492917dbaa7a8702",
+      "published_sha256": "62609885cda768e7c2be7f8bbefe0655c8d08493311741cb492917dbaa7a8702"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/web.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/web.mjs",
+      "source_sha256": "a255719a27d6c283db5428227c45c4b28bb98ead27d4d91eda63f7a07fc53195",
+      "published_sha256": "a255719a27d6c283db5428227c45c4b28bb98ead27d4d91eda63f7a07fc53195"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/ollama.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/ollama.mjs",
+      "source_sha256": "0a40a35cd58f08c9e2d5d8c5f6af63738746ce7bf37188638f9c49483f1ab185",
+      "published_sha256": "0a40a35cd58f08c9e2d5d8c5f6af63738746ce7bf37188638f9c49483f1ab185"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/ui.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/ui.mjs",
+      "source_sha256": "36d0227095dce30e485aec81c7c91e8d88ee7dacb8193828d9c64960247032e0",
+      "published_sha256": "36d0227095dce30e485aec81c7c91e8d88ee7dacb8193828d9c64960247032e0"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/paste.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/paste.mjs",
+      "source_sha256": "f5c009457b2eb0c7a57caab873d3fb86d172bd4349798aa3e939f64298fd3246",
+      "published_sha256": "f5c009457b2eb0c7a57caab873d3fb86d172bd4349798aa3e939f64298fd3246"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/browser.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/browser.mjs",
+      "source_sha256": "5db377a11d6db57d5f7d1a307b9156e8acf5945e0b79203d92d6a1c5d7745ab5",
+      "published_sha256": "5db377a11d6db57d5f7d1a307b9156e8acf5945e0b79203d92d6a1c5d7745ab5"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/skills.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/skills.mjs",
+      "source_sha256": "fd6ecb1953cef1966f57c6642d01e2e534daa8f48d7e3c71bae3f3555fd8b9f6",
+      "published_sha256": "fd6ecb1953cef1966f57c6642d01e2e534daa8f48d7e3c71bae3f3555fd8b9f6"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/effort.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/effort.mjs",
+      "source_sha256": "96bc4413371729fc3c5d9109bce6f3b7c007747dc37ed6f8a1190322dc536fcd",
+      "published_sha256": "96bc4413371729fc3c5d9109bce6f3b7c007747dc37ed6f8a1190322dc536fcd"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/complete.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/complete.mjs",
+      "source_sha256": "b52e66cba9f5f028277eb151ae0670a1e1ebb6613b1388ff4743627712c450e5",
+      "published_sha256": "b52e66cba9f5f028277eb151ae0670a1e1ebb6613b1388ff4743627712c450e5"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/rules.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/rules.mjs",
+      "source_sha256": "f9f68d1e7216fe82e259246216bb71668f326d78d18c0e04d54adb5724015446",
+      "published_sha256": "f9f68d1e7216fe82e259246216bb71668f326d78d18c0e04d54adb5724015446"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/harness.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/harness.mjs",
+      "source_sha256": "6382f22f6291aa189237696f2c93d12fc44ffdcccd66ddf153dab5dc1ec4c4ad",
+      "published_sha256": "6382f22f6291aa189237696f2c93d12fc44ffdcccd66ddf153dab5dc1ec4c4ad"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/paths.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/paths.mjs",
+      "source_sha256": "43cd7912f08e24eed7bf387af5c25b24e8478399041c3030b90155b8fd6d1b39",
+      "published_sha256": "43cd7912f08e24eed7bf387af5c25b24e8478399041c3030b90155b8fd6d1b39"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/smalltalk.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/smalltalk.mjs",
+      "source_sha256": "61d18885e5a64d96cee68fd58e9f2350ff0f6877ddd0507e13011e4017086831",
+      "published_sha256": "61d18885e5a64d96cee68fd58e9f2350ff0f6877ddd0507e13011e4017086831"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/facts.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/facts.mjs",
+      "source_sha256": "983750fd0b489d89e8564457ea2c4b4842f3918b95c7cb1b492bfc02bc2c0524",
+      "published_sha256": "983750fd0b489d89e8564457ea2c4b4842f3918b95c7cb1b492bfc02bc2c0524"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/mentions.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/mentions.mjs",
+      "source_sha256": "404d28de4a2643d27b5a903a34b3de0c608e0ade4a81a464cd8f23fc2806a68f",
+      "published_sha256": "404d28de4a2643d27b5a903a34b3de0c608e0ade4a81a464cd8f23fc2806a68f"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/ctxcost.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/ctxcost.mjs",
+      "source_sha256": "6a805d8362e53942c72ad4b4bee16c83d8ac7d4f81b11da1cde2b5c57f83250b",
+      "published_sha256": "6a805d8362e53942c72ad4b4bee16c83d8ac7d4f81b11da1cde2b5c57f83250b"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/agent.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/agent.mjs",
+      "source_sha256": "b694cf1dd9dbf5c35167f251986d5f3767a8265c6f8464d01f5452b236d74ce0",
+      "published_sha256": "b694cf1dd9dbf5c35167f251986d5f3767a8265c6f8464d01f5452b236d74ce0"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/prompt.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/prompt.mjs",
+      "source_sha256": "365d16c5ea737487023d140ecd0f1344764381cafd6110fa00c92eec9bfa5419",
+      "published_sha256": "365d16c5ea737487023d140ecd0f1344764381cafd6110fa00c92eec9bfa5419"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/session.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/session.mjs",
+      "source_sha256": "a7fa0b316d66b99425b4655b8bdfdca8e0c0792435cbf0da5788a761ba5c9766",
+      "published_sha256": "a7fa0b316d66b99425b4655b8bdfdca8e0c0792435cbf0da5788a761ba5c9766"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/permissions.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/permissions.mjs",
+      "source_sha256": "0602ef406a2ec897ee278f8cae2e16d735d3aab08f2b1fe6445291ef88f59f92",
+      "published_sha256": "0602ef406a2ec897ee278f8cae2e16d735d3aab08f2b1fe6445291ef88f59f92"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/lsp.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/lsp.mjs",
+      "source_sha256": "6c1503994642e9f2db6bd829f775d864cfa6b28e628e3f22654c10bb199d3583",
+      "published_sha256": "6c1503994642e9f2db6bd829f775d864cfa6b28e628e3f22654c10bb199d3583"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/subagent.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/subagent.mjs",
+      "source_sha256": "ba1dfb599e4d9d37b43c84147471741420d0099b2595fbb6d869861b6f816160",
+      "published_sha256": "ba1dfb599e4d9d37b43c84147471741420d0099b2595fbb6d869861b6f816160"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/edits.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/edits.mjs",
+      "source_sha256": "989c4cde896a4e3e37395295c60a1db959d6326509e5a33fe41198deb1191c6d",
+      "published_sha256": "989c4cde896a4e3e37395295c60a1db959d6326509e5a33fe41198deb1191c6d"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/config.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/config.mjs",
+      "source_sha256": "941974685d9947ba23b95ac1628f7a5c7c7c2d66fd051140647be77d41cd826a",
+      "published_sha256": "941974685d9947ba23b95ac1628f7a5c7c7c2d66fd051140647be77d41cd826a"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/tools.mjs",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/tools.mjs",
+      "source_sha256": "8394786d975ed446b83f3a6c4faa2162b84bc4dfbd48e3a2391d573b7adccc4d",
+      "published_sha256": "8394786d975ed446b83f3a6c4faa2162b84bc4dfbd48e3a2391d573b7adccc4d"
+    },
+    {
+      "path": "外部レビュー/Antigravity/見張りを全部当てる/qwc/cf36622/src/test-auto.js",
+      "source": "~/Antigravity作業/見張りを全部当てる/qwc/cf36622/src/test-auto.js",
+      "source_sha256": "042cb7c95a4298536795b16820a760d0992d03d509e59d3ecd0cf1c581c15ebc",
+      "published_sha256": "042cb7c95a4298536795b16820a760d0992d03d509e59d3ecd0cf1c581c15ebc"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2136/runs/20260927-213629-62260-09fd0d/受領証.json",
+      "source": "~/Antigravity作業/記録-0927-2136/runs/20260927-213629-62260-09fd0d/受領証.json",
+      "source_sha256": "fca7a3030a567abf915834b6cb93b4f58dca14606103ec23d0344e409006475a",
+      "published_sha256": "7acf0d0ee30967456c03266a8e8526750be8d2b0262374be78ff8d4ee82768d5"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2136/runs/20260927-213629-62260-09fd0d/予告.json",
+      "source": "~/Antigravity作業/記録-0927-2136/runs/20260927-213629-62260-09fd0d/予告.json",
+      "source_sha256": "3cbaf1df2b6a95d58199f0c39a8ad9f3788c99324cf074813d2e506e0cfa163e",
+      "published_sha256": "76b528b30ada25d445b93e658845eb132c112f4775c81a7d5b6bc98034c23f4e"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2136/runs/20260927-213629-62260-09fd0d/段階.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2136/runs/20260927-213629-62260-09fd0d/段階.jsonl",
+      "source_sha256": "99588db9a2b324e29163d61405c8b94a93aeea2278de71c60c315bd56694280b",
+      "published_sha256": "99588db9a2b324e29163d61405c8b94a93aeea2278de71c60c315bd56694280b"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2136/runs/20260927-213629-62260-09fd0d/出来事.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2136/runs/20260927-213629-62260-09fd0d/出来事.jsonl",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2134/runs/20260927-213425-61830-a704bd/受領証.json",
+      "source": "~/Antigravity作業/記録-0927-2134/runs/20260927-213425-61830-a704bd/受領証.json",
+      "source_sha256": "b741268f73fb0cae827053e15ae96cee9360a96fcbcafc1b584693c5fbdec7c4",
+      "published_sha256": "7382613cbbfd054d9ec8e9c34a12817a506fe33c72e82d9e4870d5df638569e1"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2134/runs/20260927-213425-61830-a704bd/予告.json",
+      "source": "~/Antigravity作業/記録-0927-2134/runs/20260927-213425-61830-a704bd/予告.json",
+      "source_sha256": "0f9249afa3bd6f24c553e6358296b8467a226593e6fe3ee59617e13fb890aa23",
+      "published_sha256": "57e6e3e950632041684475d195a49f426d519d8fe57f177db4d6b97575680397"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2134/runs/20260927-213425-61830-a704bd/段階.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2134/runs/20260927-213425-61830-a704bd/段階.jsonl",
+      "source_sha256": "4a14fd97830a6d18b4cdb64ddccabf2c123939056018847c73d23b878158d38c",
+      "published_sha256": "4a14fd97830a6d18b4cdb64ddccabf2c123939056018847c73d23b878158d38c"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2134/runs/20260927-213425-61830-a704bd/出来事.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2134/runs/20260927-213425-61830-a704bd/出来事.jsonl",
+      "source_sha256": "9ba0854ea711e86cc95acd940ad45ea3e4dcb7a373eb763d299ceaec2a1847e3",
+      "published_sha256": "9ba0854ea711e86cc95acd940ad45ea3e4dcb7a373eb763d299ceaec2a1847e3"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/受領証.json",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/受領証.json",
+      "source_sha256": "c1b8ed605ef417fac103618bd82c0f5dfd3ec62308814ca5346fa82899e90484",
+      "published_sha256": "52659e7db12c76b647bdee44627af5ae3e4a368c57f8d37c98b6e64021733b1b"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/予告.json",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/予告.json",
+      "source_sha256": "4a98d1198330a6eb561b9ce5667d184eafbc0cc403d4e131b4cb8f00151a76f8",
+      "published_sha256": "8c1613fe264aa0d64483961c80a44ae63787cc5350c4009fd01d344da743d230"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/段階.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/段階.jsonl",
+      "source_sha256": "ed47ecc2f46b326396fcc2d733d6dbf727de06fd25111be412cca409d4d2ddfa",
+      "published_sha256": "ed47ecc2f46b326396fcc2d733d6dbf727de06fd25111be412cca409d4d2ddfa"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/出来事.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213502-61914-f2fc9c/出来事.jsonl",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213523-61985-cff39d/受領証.json",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213523-61985-cff39d/受領証.json",
+      "source_sha256": "b5879178f0face2d9ca07019b4f3949c1d8b284735524583192dab74c6a783ab",
+      "published_sha256": "06814b61cc76e73d9c76bbd478ca22927016cbf8cf37510dfee1913765e40e75"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213523-61985-cff39d/予告.json",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213523-61985-cff39d/予告.json",
+      "source_sha256": "703a38b162fdf8446e562fd68e7258bffad781d4acb08dd6bb47c9dfc25ae103",
+      "published_sha256": "7f987b966368081e99cfff6f0fca825485f099cdaa362f4da7170a39dbd44172"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213523-61985-cff39d/段階.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213523-61985-cff39d/段階.jsonl",
+      "source_sha256": "c7f8e5e6161ea4b995e0da7e54b97502494fc2dc1fcb73df5c9f5f734d1d34ae",
+      "published_sha256": "c7f8e5e6161ea4b995e0da7e54b97502494fc2dc1fcb73df5c9f5f734d1d34ae"
+    },
+    {
+      "path": "外部レビュー/Antigravity/記録-0927-2135/runs/20260927-213523-61985-cff39d/出来事.jsonl",
+      "source": "~/Antigravity作業/記録-0927-2135/runs/20260927-213523-61985-cff39d/出来事.jsonl",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "excluded": []
+}

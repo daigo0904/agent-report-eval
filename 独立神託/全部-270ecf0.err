@@ -1,0 +1,5 @@
+E1-1: ずれ={"道具":"list_dir","番":5,"再現":"Directory not found: dist\nPaths are relative to the workspace root. The root contains: build.sh, conv.py, src/","本物":"dist/\nabout.html (0B)\npage01.html (97B)\npage02.html (97B)\npage03.html (97B)\npage04.html (97B)\npage05.html (97B)\npage06.h"} 例外=
+E3-1: ずれ={"道具":"read_file","番":7,"再現":"File not found: total.txt\nPaths are relative to the workspace root. The root contains: calculate_total.py, sales.csv","本物":"    1\t735849"} 例外=
+C1-2: ずれ={"道具":"list_dir","番":6,"再現":"./\napp.py (26B)\ntest_x.py (126B)","本物":"./\n__pycache__/ (skipped)\napp/\n  __pycache__/ (skipped)\n  __init__.py (22B)\napp.py (26B)\ntest_x.py (126B)"} 例外=
+E3-2: ずれ={"道具":"list_dir","番":5,"再現":"./\ncalculate_total.py (956B)\nsales.csv (7361B)","本物":"./\ncalculate_total.py (956B)\nsales.csv (7361B)\ntotal.txt (6B)"} 例外=
+E1-3: ずれ={"道具":"list_dir","番":6,"再現":"Directory not found: dist\nPaths are relative to the workspace root. The root contains: build.sh, conv.py, src/","本物":"dist/\nabout.html (0B)\npage01.html (97B)\npage02.html (97B)\npage03.html (97B)\npage04.html (97B)\npage05.html (97B)\npage06.h"} 例外=
