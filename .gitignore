@@ -1,0 +1,12 @@
+
+# Local runtime data
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+__pycache__/
+*.pyc
+node_modules/
+.next/
+.DS_Store
